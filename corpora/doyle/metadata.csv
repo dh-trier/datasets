@@ -1,0 +1,13 @@
+idno,author,title,year,subgenre,narration
+acd007,Doyle,MysteryCloomber,1889,horror,homodiegetic
+acd004,Doyle,WhiteCompany,1891,historical,heterodiegetic
+acd001,Doyle,StudyScarlet,1887,crime,homodiegetic
+acd008,Doyle,RafflesHaw,1891,horror,homodiegetic
+acd003,Doyle,SignFour,1890,crime,homodiegetic
+acd002,Doyle,HoundBaskervilles,1902,crime,homodiegetic
+acd005,Doyle,Refugees,1893,historical,heterodiegetic
+acd009,Doyle,Parasite,1894,horror,homodiegetic
+acd006,Doyle,FirmGirdlestone,1890,historical,heterodiegetic
+acd010,Doyle,LostWorld,1912,adventure,homodiegetic
+acd011,Doyle,ValleyFear,1914,detective,homodiegetic
+acd012,Doyle,PoisonBelt,1913,sciencefiction,homodiegetic

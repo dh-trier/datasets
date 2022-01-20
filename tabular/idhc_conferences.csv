@@ -1,0 +1,500 @@
+id,year,short_title,url,start_date,end_date,city,country,entry_status,program_available,abstracts_available,label
+1,2000,Glasgow,https://web.archive.org/web/20190421230852/https://www.arts.gla.ac.uk/allcach2k/,2000-07-21,2000-07-25,Glasgow,65,r,True,True,2000 - Glasgow
+2,2001,New York University,https://web.archive.org/web/20011127030143/http://www.nyu.edu/its/humanities/ach_allc2001/,2001-07-13,2001-07-16,New York,64,r,True,True,2001 - New York University
+3,2002,Tübingen,http://web.archive.org/web/20041117094331/http://www.uni-tuebingen.de/allcach2002/,2002-07-23,2002-07-28,Tübingen,4,r,True,True,2002 - Tübingen
+4,2003,Georgia,http://web.archive.org/web/20071113184133/http://www.english.uga.edu/webx/,2003-05-29,2003-06-02,Athens,64,r,True,True,2003 - Georgia
+5,2004,Gothenburg,http://web.archive.org/web/20040815075341/http://www.hum.gu.se/allcach2004/,2004-06-11,2004-06-16,Gothenborg,34,c,True,True,2004 - Gothenburg
+6,2005,Victoria,http://web.archive.org/web/20071215042001/http://web.uvic.ca/hrd/achallc2005/,2005-06-15,2005-06-18,Victoria,13,r,True,True,2005 - Victoria
+7,2006,Sorbonne,http://www.allc-ach2006.colloques.paris-sorbonne.fr/,2006-07-05,2006-07-09,Paris,2,c,True,True,2006 - Sorbonne
+8,2007,Urbana-Champaign,http://www.digitalhumanities.org/dh2007/,2007-06-02,2007-06-08,Urbana-Champaign,64,c,True,True,2007 - Urbana-Champaign
+9,2008,Oulu,http://www.ekl.oulu.fi/dh2008/,2008-06-25,2008-06-29,Oulu,8,c,True,True,2008 - Oulu
+10,2009,UMD College Park,http://web.archive.org/web/20130307234434/http://mith.umd.edu/dh09/,2009-06-20,2009-06-25,College Park,64,c,True,True,2009 - UMD College Park
+11,2010,King's College,http://dh2010.cch.kcl.ac.uk/,2010-07-07,2010-07-10,London,65,c,True,True,2010 - King's College
+12,2011,Stanford,https://dh2011.stanford.edu/,2011-06-19,2011-06-22,Stanford,64,c,True,True,2011 - Stanford
+13,2012,Hamburg,http://www.dh2012.uni-hamburg.de/,2012-07-16,2012-07-22,Hamburg,4,c,True,True,2012 - Hamburg
+14,2013,Nebraska,http://dh2013.unl.edu/,2013-07-16,2013-07-19,Lincoln,64,c,True,True,2013 - Nebraska
+15,2014,Lausanne,https://web.archive.org/web/20161227182033/https://dh2014.org/program/,2014-07-07,2014-07-12,Lausanne,9,c,True,True,2014 - Lausanne
+16,2015,Sydney,https://web.archive.org/web/20190121165412/http://dh2015.org/,2015-06-29,2015-07-03,Sydney,6,c,True,True,2015 - Sydney
+17,2016,Kraków,https://dh2016.adho.org/,2016-07-11,2016-07-16,Kraków,12,c,True,True,2016 - Kraków
+18,2017,Montréal,https://dh2017.adho.org/,2017-08-08,2017-08-11,Montréal,13,c,True,True,2017 - Montréal
+20,2018,Mexico City,https://dh2018.adho.org/,2018-06-26,2018-06-29,Mexico City,38,c,True,True,2018 - Mexico City
+21,2019,Pittsburgh,http://ach2019.ach.org/,2019-07-23,2019-07-26,Pittsburgh,64,c,True,True,2019 - Pittsburgh
+22,1999,Virginia,http://www2.iath.virginia.edu/ach-allc.99/schedule.html,1999-06-09,1999-06-13,Charlottesville,64,r,True,True,1999 - Virginia
+23,2019,Utrecht,http://staticweb.hum.uu.nl/dh2019/dh2019.adho.org/index.html,2019-07-09,2019-07-12,Utrecht,1,r,True,True,2019 - Utrecht
+24,1998,Lajos Kossuth University,https://web.archive.org/web/19991022041140/http://lingua.arts.klte.hu/allcach98/,1998-07-05,1998-07-10,Debrecen,31,r,True,True,1998 - Lajos Kossuth University
+25,1997,Queen's University,https://web.archive.org/web/20010105065100/http://www.cs.queensu.ca/achallc97/,1997-06-13,1997-06-07,Kingston,13,r,True,True,1997 - Queen's University
+26,1996,Bergen,https://web.archive.org/web/19990224202037/www.hd.uib.no/allc-ach96.html,1996-06-25,1996-06-29,Bergen,35,r,True,True,1996 - Bergen
+27,1995,UC Santa Barbara,http://xml.coverpages.org/ach95pro.html,1995-07-11,1995-07-15,Santa Barbara,64,r,True,False,1995 - UC Santa Barbara
+28,1994,Sorbonne,http://web.archive.org/web/20070403170847/http://www.ach.org/ACH_Newsletter/16.1_Newsletter.html#program,1994-04-19,1994-04-23,Paris,2,r,True,False,1994 - Sorbonne
+29,1993,Georgetown University,http://xml.coverpages.org/flynnach.html,1993-06-16,1993-06-19,"Washington, D.C.",64,r,True,False,1993 - Georgetown University
+30,1992,"Christ Church, Oxford",http://lists.village.virginia.edu/lists_archive/Humanist/v05/0644.html,1992-05-05,1992-05-09,Oxford,65,r,True,True,"1992 - Christ Church, Oxford"
+31,1991,Arizona State University,http://korpus.uib.no/humfak/humdata/1-91/ach.htm,1991-03-17,1991-03-21,Tempe,64,r,True,True,1991 - Arizona State University
+32,1990,University of Siegen,http://lists.village.virginia.edu/lists_archive/Humanist/v03/1120.html,1990-06-04,1990-06-09,Siegen,64,r,True,False,1990 - University of Siegen
+33,1989,Toronto,,1989-06-06,1989-06-10,Toronto,13,r,True,True,1989 - Toronto
+34,2014,"Koninklijke Bibliotheek, The Hague",http://www.dhbenelux.org/?ar=2014,2014-06-12,2014-06-13,The Hague,1,n,True,False,"2014 - Koninklijke Bibliotheek, The Hague"
+35,2015,University of Antwerp,http://www.dhbenelux.org/?ar=2015,2015-06-08,2015-06-09,Antwerp,28,n,True,True,2015 - University of Antwerp
+36,2016,University of Luxembourg,http://www.dhbenelux.org/,2016-06-09,2019-06-10,Belval,27,n,True,True,2016 - University of Luxembourg
+37,2018,"International Institute for Social History, Amsterdam",http://2018.dhbenelux.org/programme/detailed-programme/,2018-06-06,2018-06-08,Amsterdam,1,n,True,True,"2018 - International Institute for Social History, Amsterdam"
+38,2019,University of Liège,http://2019.dhbenelux.org/program/,2019-09-11,2019-09-13,Liège,28,n,True,True,2019 - University of Liège
+39,2012,Australian National University,https://web.archive.org.au/awa/20120322232840mp_/http://pandora.nla.gov.au/pan/129862/20141216-1203/aa-dh.org/images/2011/12/DHA2012-program1.pdf,2012-03-27,2012-03-30,Canberra,6,n,True,False,2012 - Australian National University
+40,2014,University of Western Australia,http://web.archive.org/web/20140409162411/http://dha2014.org/wp-content/uploads/2014/02/DHA-2014-conference-full-proceedings.pdf,2014-03-18,2014-03-21,Perth,6,n,True,True,2014 - University of Western Australia
+41,2016,University of Tasmania,http://web.archive.org/web/20160510133156/http://www.uqhistory.net/web/dha2016/index.php/dha2016/dha2016/schedConf/presentations,2016-06-20,2016-06-23,Hobart,6,n,True,True,2016 - University of Tasmania
+42,2018,University of South Australia,http://web.archive.org/web/20190903020153/http://dha-2018.p.dha2018.currinda.com/,2018-09-25,2018-09-28,Adelaide,6,n,True,True,2018 - University of South Australia
+43,2018,"National University of Ireland, Galway",https://eadh2018eadh.wordpress.com/,2018-12-05,2019-12-09,Galway,16,r,True,False,"2018 - National University of Ireland, Galway"
+44,2011,University of Osaka,http://web.archive.org/web/20130914062856/http://www.lang.osaka-u.ac.jp/~osdh2011/OSDH2011_program2.1.7.html,2011-09-13,2011-09-13,Osaka,17,r,True,False,2011 - University of Osaka
+45,2012,University of Tokyo,https://www.jadh.org/node/18,2012-09-15,2012-09-17,Tokyo,17,n,True,False,2012 - University of Tokyo
+46,2013,Ritsumeikan University,https://www.dh-jac.net/jadh2013/programme.html,2013-09-19,2013-09-21,Kyoto,17,n,True,True,2013 - Ritsumeikan University
+47,2014,University of Tsukuba,https://conf2014.jadh.org/Programme.html,2014-09-19,2014-09-21,Tsukuba,17,n,True,True,2014 - University of Tsukuba
+48,2015,Kyoto University,http://conf2015.jadh.org/program/,2015-09-01,2015-09-03,Kyoto,17,n,True,True,2015 - Kyoto University
+49,2016,University of Tokyo,http://conf2016.jadh.org/program/,2016-09-12,2016-09-14,Tokyo,17,n,True,True,2016 - University of Tokyo
+50,2017,Doshisha University,http://conf2017.jadh.org/programme.html,2017-09-11,2017-09-12,Kyoto,17,n,True,True,2017 - Doshisha University
+51,2018,Tokyo,https://conf2018.jadh.org/session.html,2018-09-09,2018-09-11,Tokyo,17,n,True,True,2018 - Tokyo
+52,2019,Kansai University,https://wps.itc.kansai-u.ac.jp/jadh2019/programm/time-schedule-2/,2019-08-29,2019-08-31,Osaka,17,n,True,True,2019 - Kansai University
+53,1970,Cambridge,,1970-03-23,1970-03-26,Cambridge,65,i,True,False,1970 - Cambridge
+54,1972,Edinburgh,,1972-03-27,1972-03-30,Edinburgh,65,i,True,False,1972 - Edinburgh
+55,1974,Cardiff,,1974-04-01,1974-04-05,Cardiff,65,i,True,False,1974 - Cardiff
+56,1976,Oxford University,,1976-04-05,1976-04-09,Oxford,65,n,False,False,1976 - Oxford University
+57,1978,Birmingham,,1978-04-03,1978-04-04,Birmingham,65,i,True,False,1978 - Birmingham
+58,1980,"Newnham College, Cambridge",,1980-03-28,1980-04-03,Cambridge,65,n,False,False,"1980 - Newnham College, Cambridge"
+59,1982,Pisa,,1982-06-07,1982-06-11,Pisa,26,i,True,False,1982 - Pisa
+60,1984,"Catholic University, Louvain",,1984-04-02,1984-04-06,Leuven,28,n,False,False,"1984 - Catholic University, Louvain"
+61,1985,Université de Nice,,1985-06-05,1985-06-08,Nice,2,n,False,False,1985 - Université de Nice
+62,1986,"University of East Anglia, Norwich",,1986-04-01,1986-04-04,Norwich,65,n,False,False,"1986 - University of East Anglia, Norwich"
+63,1987,Gothenburg,,1987-06-01,1987-06-05,Gothenborg,34,n,False,False,1987 - Gothenburg
+64,1988,Jerusaleum,,1988-06-05,1988-06-09,Jerusalem,20,n,False,False,1988 - Jerusaleum
+65,1974,King's College,,1974-12-13,1974-12-13,London,65,c,False,False,1974 - King's College
+66,1975,Amsterdam,https://www.aclweb.org/anthology/J79-1029.pdf,1975-12-13,1975-12-13,Amsterdam,1,c,True,False,1975 - Amsterdam
+67,1977,Liège,,1977-12-17,1977-12-17,Liège,28,i,False,False,1977 - Liège
+68,1978,King's College London,,1978-12-15,1978-12-15,London,65,c,True,False,1978 - King's College London
+69,1980,Copenhagen,,1980-12-11,1980-12-12,Copenhagen,10,n,False,False,1980 - Copenhagen
+70,1981,Oxford,,,,Oxford,65,n,False,False,1981 - Oxford
+71,1983,"San Francisco, USA",,1983-04-06,1983-06-08,San Francisco,64,n,False,False,"1983 - San Francisco, USA"
+72,1973,University of Minnesota,,1973-07-20,1973-07-22,Minneapolis,64,i,True,False,1973 - University of Minnesota
+73,1975,"University of Southern California, Los Angeles",,1975-04-03,1975-04-06,Los Angeles,64,n,False,False,"1975 - University of Southern California, Los Angeles"
+74,1977,"University of Waterloo, Ontario",,1977-08-02,1977-08-05,Waterloo,13,i,True,False,"1977 - University of Waterloo, Ontario"
+75,1979,Dartmouth,,1979-08-20,1979-08-23,Hanover,64,n,False,False,1979 - Dartmouth
+76,1981,University of Michigan,,1981-05-17,1981-05-20,Ann Arbor,64,i,True,False,1981 - University of Michigan
+77,1983,North Carolina State University,,1983-06-06,1986-06-08,Raleigh,64,i,True,False,1983 - North Carolina State University
+78,1985,BYU,,1985-06-26,1985-06-28,"Provo, Utah",64,c,True,True,1985 - BYU
+79,1987,University of South Carolina,,1987-04-09,1987-04-12,Columbia,64,c,True,True,1987 - University of South Carolina
+80,2012,José Vasconcelos Library,http://www.humanidadesdigitales.net/1er-encuentro-de-humanistas-digitales/,2012-05-17,2012-05-18,Mexico City,38,n,False,False,2012 - José Vasconcelos Library
+81,2014,José Vasconcelos Library,http://www.humanidadesdigitales.net/2o-encuentro-de-humanistas-digitales/,2014-05-21,2014-05-23,Mexico City,38,n,False,False,2014 - José Vasconcelos Library
+82,2014,El Colegio de México and the National Autonomous University,http://web.archive.org/web/20161029064620/http://www.humanidadesdigitales.net/3ehd/,2014-09-12,2014-09-14,Mexico City,38,n,False,False,2014 - El Colegio de México and the National Autonomous University
+84,2018,University of Maryland,http://web.archive.org/web/20200603161721/https://aadhum.umd.edu/conference/,2018-10-18,2018-10-20,College Park,64,n,False,False,2018 - University of Maryland
+85,1997,Cincinnati,,,,Cincinnati,64,n,False,False,1997 - Cincinnati
+86,2006,Ohio State University,http://web.archive.org/web/20061010111301/http://www.theaahc.org/cfp.htm,2006-04-24,2006-04-17,Columbus,64,n,False,False,2006 - Ohio State University
+87,2007,Brown University,http://blog.uvm.edu/hag/2007/03/23/aahc-conference-open-source-history-making-history-public/,2007-04-19,2007-04-21,Providence,64,n,False,False,2007 - Brown University
+88,2009,George Mason University,http://web.archive.org/web/20090227045652/http://theaahc.org/2009cfp.htm,2009-04-03,2009-04-05,Fairfax,64,n,False,False,2009 - George Mason University
+89,1998,University of Cincinnati,https://lists.h-net.org/cgi-bin/logbrowse.pl?trx=vx&list=h-law&month=9803&week=b&msg=x4psIaky1vqVAqMZ9JSfew,1998-04-24,1998-04-25,Cincinnati,64,n,False,False,1998 - University of Cincinnati
+90,1999,Temple University,http://web.archive.org/web/20001204210600/http://aahc.sfasu.edu/Spring_99/Outline.htm,1999-04-23,1999-04-25,Philadelphia,64,n,True,False,1999 - Temple University
+91,2000,Baylor University,http://web.archive.org/web/20010515200730/http://aahc.sfasu.edu:80/,2000-04-13,2000-04-15,Waco,64,n,False,False,2000 - Baylor University
+92,2001,Indianapolis,http://web.archive.org/web/20010803133240/http://www.theaahc.org/annual.htm,2001-02-01,2001-02-03,Indianapolis,64,n,True,True,2001 - Indianapolis
+93,2002,Nashville,http://web.archive.org/web/20020607215442/http://theaahc.org/annual.htm,2002-03-06,2002-03-10,Nashville,64,n,True,False,2002 - Nashville
+94,2003,DePauw University,http://web.archive.org/web/20030804093548/http://www.theaahc.org/annual.htm,2003-03-13,2003-03-15,Greencastle,64,n,True,False,2003 - DePauw University
+95,2004,"Washington, D.C.",http://web.archive.org/web/20040610175610/http://www.theaahc.org:80/cfp.htm,2004-01-08,2004-01-11,"Washington, D.C.",64,n,True,False,"2004 - Washington, D.C."
+96,2005,Roosevelt University,http://web.archive.org/web/20050403075336/http://theaahc.org/cfp.htm,2005-04-15,2005-04-17,Schaumburg,64,n,True,False,2005 - Roosevelt University
+97,1986,Vassar College,,1986-07-31,1986-08-02,Poughkeepsie,64,n,False,False,1986 - Vassar College
+98,1988,University of Oberlin,,1988-06-16,1988-06-18,Oberlin,64,n,True,False,1988 - University of Oberlin
+99,1990,Fordham University,,1990-06-24,1990-06-25,Bronx,64,n,False,False,1990 - Fordham University
+100,1969,University of Kansas,,1969-09-03,1969-09-07,Lawrence,64,n,False,False,1969 - University of Kansas
+101,1990,Palais de Congres de Versailles,https://www.w3.org/Conferences/ECHT90/Introduction.html,1990-09-27,1990-09-30,Versailles,2,n,False,False,1990 - Palais de Congres de Versailles
+102,1987,Chapel Hill,,1987-11-13,1987-11-15,Chapel Hill,64,n,False,False,1987 - Chapel Hill
+103,1989,Pittsburgh,,1989-11-05,1989-11-08,Pittsburgh,64,n,False,False,1989 - Pittsburgh
+104,1991,San Antonio,https://www.w3.org/Conferences/HT91/Overview.html,1991-12-15,1991-12-18,San Antonio,64,n,False,False,1991 - San Antonio
+105,1986,"Westfield College, University of London",,1986-03-21,1986-03-23,London,65,n,False,False,"1986 - Westfield College, University of London"
+106,1995,Montreal,,1995-08-24,1995-08-26,Montreal,13,n,False,False,1995 - Montreal
+107,1996,Moscow State University,,1996-08-20,1996-08-24,Moscow,51,n,False,False,1996 - Moscow State University
+108,1997,University of Glasgow,,1997-06-30,1997-07-03,Glasgow,,n,False,False,1997 - University of Glasgow
+109,1998,Convent of San Pedro Mártir,,1998-07-20,1998-07-23,Toledo,21,n,False,False,1998 - Convent of San Pedro Mártir
+110,2001,Adam Mickiewicz University,https://web.archive.org/web/20010810051738/http://hum.amu.edu.pl/~ahc2001/welcome.htm,2001-08-28,2001-08-30,Poznan,12,n,True,False,2001 - Adam Mickiewicz University
+111,2003,University of Tromsø,http://web.archive.org/web/20160512152646/http://www.rhd.uit.no:8080/ahc/program.html,2003-08-06,2003-08-11,Tromsø,35,n,True,True,2003 - University of Tromsø
+112,2005,Amsterdam,http://web.archive.org/web/20081019174133/http://www.ahc2005.org/en/,2005-09-14,2005-09-17,Amsterdam,1,n,True,True,2005 - Amsterdam
+113,1987,"Westfield College, University of London",,1987-03-20,1987-03-22,London,65,n,False,False,"1987 - Westfield College, University of London"
+114,1988,Cologne,,1988-09-07,1988-09-10,Cologne,4,n,False,False,1988 - Cologne
+115,1989,University of Bordeaux,,1989-09-13,1989-09-16,Bordeaux,2,n,False,False,1989 - University of Bordeaux
+116,1990,University of Montpellier,,1990-09-04,1990-09-07,Montpellier,2,n,False,False,1990 - University of Montpellier
+117,1991,Odense,https://dhhumanist.org/Archives/Virginia/v05/0186.html,1991-08-28,1991-08-30,Odense,10,n,True,False,1991 - Odense
+118,1992,Bologna,,1992-08-29,1992-09-02,Bologna,26,n,False,False,1992 - Bologna
+119,1993,Graz,,1993-08-24,1993-08-27,Graz,5,n,False,False,1993 - Graz
+120,1994,Nijmegen,,1994-08-30,1994-09-02,Nijmegen,1,n,False,False,1994 - Nijmegen
+121,2017,Perm State University,http://2017.dhconf.ru/,2017-05-16,2017-05-18,Perm,51,n,True,False,2017 - Perm State University
+122,1991,Florianópolis,,1991-09-26,1991-09-28,Florianópolis,33,n,False,False,1991 - Florianópolis
+123,1993,,http://web.archive.org/web/20180721092447/http://aik-sng.ru/node/221,1993-04-02,1993-04-04,,51,n,False,False,1993 - История и компьютер (Russian Association for History and Computing)
+124,2006,Moscow,,2006-05-12,2006-05-14,Moscow,51,n,False,False,2006 - Moscow
+125,2008,Moscow,,2008-12-13,2008-12-15,Moscow,51,n,False,False,2008 - Moscow
+126,2010,Moscow State University Lomonosov,http://web.archive.org/web/20170531033605/http://aik-sng.ru:80/node/167,2010-10-22,2010-10-24,Moscow,51,n,True,False,2010 - Moscow State University Lomonosov
+127,2012,Moscow State University Lomonosov,http://web.archive.org/web/20180707092804/http://aik-sng.ru/node/439,2012-10-21,2012-10-23,Moscow,51,n,False,False,2012 - Moscow State University Lomonosov
+128,1994,Krasnovidovo,http://web.archive.org/web/20180623035913/http://aik-sng.ru/node/222,1994-03-18,1994-03-20,Krasnovidovo,51,n,False,False,1994 - Krasnovidovo
+129,1995,Zvenigorodsky boarding house of the Russian Academy of Sciences,http://web.archive.org/web/20170603132043/http://aik-sng.ru/node/223,1995-03-31,1995-04-02,Zvenigorod,51,n,False,False,1995 - Zvenigorodsky boarding house of the Russian Academy of Sciences
+130,1996,Zvenigorodsky boarding house of the Russian Academy of Sciences,http://web.archive.org/web/20170603132314/http://aik-sng.ru/node/224,1996-03-15,1996-03-17,Zvenigorod,51,n,False,False,1996 - Zvenigorodsky boarding house of the Russian Academy of Sciences
+131,1997,Zvenigorodsky boarding house of the Russian Academy of Sciences,http://web.archive.org/web/20170603130021/http://aik-sng.ru/node/225,1997-03-28,1997-03-30,Zvenigorod,51,n,False,False,1997 - Zvenigorodsky boarding house of the Russian Academy of Sciences
+132,1998,Zvenigorodsky boarding house of the Russian Academy of Sciences,http://web.archive.org/web/20170611231800/http://aik-sng.ru/node/226,1998-03-26,1998-03-29,Zvenigorod,51,n,False,False,1998 - Zvenigorodsky boarding house of the Russian Academy of Sciences
+133,2000,,http://web.archive.org/web/20190425050400/http://aik-sng.ru/node/227,2000-04-06,2000-04-09,,51,n,True,True,2000 - История и компьютер (Russian Association for History and Computing)
+134,2002,Northwest Academy of Public Administration (NWACS),http://web.archive.org/web/20180704224931/http://www.aik-sng.ru/node/228,2002-06-26,2002-06-29,St. Petersburg,51,n,True,False,2002 - Northwest Academy of Public Administration (NWACS)
+135,2004,,,2004-04-22,2004-04-25,,51,n,False,False,2004 - История и компьютер (Russian Association for History and Computing)
+136,1988,University of Glasgow,,1988-03-18,1988-03-19,Glasgow,65,n,False,False,1988 - University of Glasgow
+137,1998,University of Teesside,http://web.archive.org/web/20010505071704/http://www.ucl.ac.uk/history/ahcuk/newslet1.htm#conf99,1998-09-08,1998-09-11,Middlesbrough,65,n,False,False,1998 - University of Teesside
+138,1999,"King's College, London",http://web.archive.org/web/20010609200049/http://www.kcl.ac.uk/humanities/cch/ahcuk99/,1999-09-14,1999-09-16,London,65,n,True,True,"1999 - King's College, London"
+139,2002,Institute of Historical Research,http://web.archive.org/web/20021211102348/http://www.ahc.ac.uk/conf2002.htm,2002-11-23,2002-11-23,London,65,n,False,False,2002 - Institute of Historical Research
+140,2004,The National Archives,http://web.archive.org/web/20050214213508/http://www.ahc.ac.uk/confweb/index.htm,2004-11-27,2004-11-27,London,65,n,True,True,2004 - The National Archives
+141,1989,University of Durham,,1989-03-17,1989-03-18,Durham,65,n,False,False,1989 - University of Durham
+142,1990,Wolverhampton Polytechnic,,,,Wolverhampton,65,n,False,False,1990 - Wolverhampton Polytechnic
+143,1991,University of Southampton,,,,Southampton,65,n,False,False,1991 - University of Southampton
+144,1992,University College of Wales,,1992-04-02,1992-04-04,Aberystwyth,65,n,False,False,1992 - University College of Wales
+145,1993,University of York,,1993-03-25,1993-03-27,York,65,n,False,False,1993 - University of York
+146,1994,University of Hull,,1994-04-12,1994-04-14,Hull,65,n,False,False,1994 - University of Hull
+147,2012,Florence,http://www.aiucd.it/primo-convegno-annuale-dellassociazione-informatica-umanistica-e-cultura-digitale/,2012-12-13,2012-12-14,Florence,26,n,True,False,2012 - Florence
+148,2013,University of Padua,http://aiucd2013.dei.unipd.it/,2013-12-11,2013-12-12,Padua,26,n,True,False,2013 - University of Padua
+149,2014,University of Bologna,http://aiucd2014.unibo.it/,2014-09-18,2014-09-19,Bologna,26,n,True,True,2014 - University of Bologna
+150,2015,University of Turin,http://web.archive.org/web/20160317172201/http://www.aiucd2015.unito.it/,2015-12-17,2015-12-19,Turin,26,n,False,False,2015 - University of Turin
+151,2016,Venice,https://sites.google.com/a/unive.it/aiucd2016/,2016-09-07,2016-09-09,Venice,26,n,True,True,2016 - Venice
+152,2017,Sapienza University,http://aiucd2017.aiucd.it/,2018-01-26,2018-01-28,Rome,26,n,True,True,2017 - Sapienza University
+153,2018,University of Bari Aldo Moro,http://web.archive.org/web/20190125185426/http://www.aiucd2018.uniba.it/,2018-01-31,2018-02-02,Bari,26,n,True,True,2018 - University of Bari Aldo Moro
+154,2019,University of Udin,http://aiucd2019.uniud.it/,2019-01-23,2019-01-25,Udine,26,n,True,True,2019 - University of Udin
+155,2020,Catholic University of the Sacred Heart,https://aiucd2020.unicatt.it/aiucd-home,2020-01-15,2020-01-17,Milan,26,n,True,True,2020 - Catholic University of the Sacred Heart
+156,1979,Kibbutz Shefayim,,1979-04-22,1979-04-27,Kibbutz Shefayim,20,i,True,False,1979 - Kibbutz Shefayim
+158,2015,"Maison Française, Columbia University",http://caribbeandigitalnyc.net/2015/,2015-12-04,2015-12-04,New York,64,n,True,False,"2015 - Maison Française, Columbia University"
+159,2016,"Maison Française, Columbia University",http://caribbeandigitalnyc.net/2016/,2016-12-02,2016-12-02,New York,64,n,True,True,"2016 - Maison Française, Columbia University"
+160,2017,University of Virginia,http://caribbeandigitalnyc.net/2017/,2017-11-30,2017-12-01,Charlottesville,64,n,True,False,2017 - University of Virginia
+161,2018,University of the West Indies,http://caribbeandigitalnyc.net/2018/,2018-12-06,2018-12-07,St. Augustine,202,n,True,True,2018 - University of the West Indies
+162,2019,"Barnard College, Columbia University",http://caribbeandigitalnyc.net/2019/,2019-12-06,2019-12-06,New York,64,n,True,False,"2019 - Barnard College, Columbia University"
+163,1987,University of Southampton,,1987-04-10,1987-04-11,Southampton,,n,False,False,1987 - University of Southampton
+164,1988,University of Southampton,,1988-12-13,1988-12-15,Southampton,,n,False,False,1988 - University of Southampton
+165,1990,St. Andrews University,,1990-04-02,1990-04-05,St. Andrews,,n,False,False,1990 - St. Andrews University
+166,1991,University of Durham,,1991-12-16,1991-12-18,Durham,,n,False,False,1991 - University of Durham
+167,1992,Manchester Metropolitan University,,1992-12-15,1992-12-17,Manchester,,n,False,False,1992 - Manchester Metropolitan University
+168,1994,Glasgow University,,1994-09-10,1994-09-12,Glasgow,,n,False,False,1994 - Glasgow University
+169,1995,"Royal Holloway, University of London",,1995-09-05,1995-09-07,London,,n,False,False,"1995 - Royal Holloway, University of London"
+170,2020,College of William & Mary,https://chesapeakedh.github.io/conference-2020,2020-02-21,2020-02-21,Williamsburg,64,n,True,False,2020 - College of William & Mary
+171,2017,Toronto,http://web.archive.org/web/20171104142458/http://csdh-schn.org/2017/04/28/program-csdhschn-congress-2017/,2017-05-27,2017-05-28,Toronto,13,n,True,False,2017 - Toronto
+172,2018,Regina,http://web.archive.org/web/20180805173148/http://csdh-schn.org/2018/03/21/csdh-schn-2018-conference-schedule/,2018-05-26,2018-05-28,Regina,13,n,False,False,2018 - Regina
+173,2019,Vancouver,https://www.congress2019.ca/associations/255,2019-06-02,2019-06-04,Vancouver,13,n,True,False,2019 - Vancouver
+174,2015,Ottawa,http://web.archive.org/web/20150406152924/https://www.conftool.net/csdh-schn-ach-2015/index.php?page=browseSessions&presentations=show,2015-06-01,2015-06-03,Ottawa,13,n,True,False,2015 - Ottawa
+175,2016,Göttingen State and University Library,https://de.dariah.eu/en/dariah-de-grand-tour,2016-02-18,2016-02-19,Göttingen,4,n,True,False,2016 - Göttingen State and University Library
+176,2018,TU Darmstadt,https://de.dariah.eu/en/dariah-de-grand-tour-2018,2018-09-19,2018-09-21,Darmstadt,4,n,True,False,2018 - TU Darmstadt
+177,2015,Berlin,https://de.dariah.eu/en/dh-summit-2015,2015-03-03,2015-03-04,Berlin,4,n,True,False,2015 - Berlin
+178,2017,École normale supérieure,http://dataforhistory.org/20171123-24,2017-11-23,2017-11-24,Lyon,2,n,True,False,2017 - École normale supérieure
+179,2018,Université Jean-Moulin,http://dataforhistory.org/2nd-data-for-history,2018-05-24,2018-05-25,Lyon,2,n,True,False,2018 - Université Jean-Moulin
+180,2019,Leipzing University of Applied Sciences,http://dataforhistory.org/3rd-data-for-history,2019-04-04,2019-04-05,Leipzig,4,n,True,False,2019 - Leipzing University of Applied Sciences
+181,2020,Humboldt University of Berlin,https://d4h2020.sciencesconf.org/,,,Berlin,4,n,False,False,2020 - Humboldt University of Berlin
+182,2018,"Indian Institute of Management, Indore",https://cis-india.org/raw/dhai-inagural-conference-2018-puthiya-purayil-sneha-keynote,2018-06-01,2018-06-02,Indore,14,r,True,False,"2018 - Indian Institute of Management, Indore"
+183,2020,Twitter,https://dhaindia.wordpress.com/dharti-twitter-conference-2020/,2020-01-19,2020-01-19,,14,n,True,False,2020 - Twitter
+184,2017,"Stellenbosch University, Stellenbosch Institute for Advanced Studies",http://dh2017.digitalhumanities.org.za/,2017-01-17,2017-01-20,Stellenbosch,57,n,True,False,"2017 - Stellenbosch University, Stellenbosch Institute for Advanced Studies"
+185,2019,University of Pretoria,http://dh2019.digitalhumanities.org.za/,2019-03-25,2019-03-29,Pretoria,57,n,True,False,2019 - University of Pretoria
+186,2006,University of Chicago,http://web.archive.org/web/20080701190022/http://dhcs2006.uchicago.edu/,2006-11-05,2006-11-06,Chicago,64,n,True,True,2006 - University of Chicago
+187,2015,University of Chicago,https://lucian.uchicago.edu/blogs/dhcs/,2015-11-13,2015-11-15,Chicago,64,n,True,False,2015 - University of Chicago
+188,2016,University of Illinois at Chicago,https://dhcs.uic.edu/,2016-11-11,2016-11-13,Chicago,64,n,False,False,2016 - University of Illinois at Chicago
+189,2017,Illinois Institute of Technology,https://sites.google.com/iit.edu/dhcs/program,2017-11-17,2017-11-19,Chicago,64,n,True,False,2017 - Illinois Institute of Technology
+190,2018,Loyola University Chicago,http://ctsdh.org/dhcs2018/,2018-11-09,2018-11-11,Chicago,64,n,True,False,2018 - Loyola University Chicago
+191,2019,University of Chicago,https://voices.uchicago.edu/dhcs2019/,2019-11-09,2019-11-10,Chicago,64,n,True,False,2019 - University of Chicago
+192,2007,Northwestern University,http://web.archive.org/web/20111113065406/http://dhcs.northwestern.edu/program.html,2007-10-21,2007-10-22,Chicago,64,n,True,True,2007 - Northwestern University
+193,2008,University of Chicago,http://web.archive.org/web/20120201223037/https://lucian.uchicago.edu/blogs/dhcs2008/schedule/,2008-11-01,2008-11-03,Chicago,64,n,True,False,2008 - University of Chicago
+194,2009,Illinois Institute of Technology,http://web.archive.org/web/20111113053542/http://chicagocolloquium.org/2009-final-program/,2009-11-14,2009-11-16,Chicago,64,n,True,False,2009 - Illinois Institute of Technology
+195,2010,Northwestern University,http://web.archive.org/web/20111213005237/http://chicagocolloquium.org/dhcs-program-2010,2010-11-21,2010-11-22,Chicago,64,n,True,True,2010 - Northwestern University
+196,2011,Loyola University Chicago,http://web.archive.org/web/20120126200007/http://chicagocolloquium.org/dhcs-2011-program/,2011-11-19,2011-11-21,Chicago,64,n,True,True,2011 - Loyola University Chicago
+197,2012,University of Chicago,https://lucian.uchicago.edu/blogs/dhcs/dhcs-2012-program/,2012-11-17,2012-11-19,Chicago,64,n,True,False,2012 - University of Chicago
+198,2013,DePaul University,https://lucian.uchicago.edu/blogs/dhcs/dhcs-2013-program/,2013-12-05,2013-12-05,Chicago,64,n,True,False,2013 - DePaul University
+199,2014,Northwestern University,http://web.archive.org/web/20151018005645/http://dhcs.northwestern.edu/program/,2014-10-23,2014-10-24,Evanston,64,n,True,False,2014 - Northwestern University
+200,2014,University of Passau,https://www.dhd2014.uni-passau.de/,2014-03-25,2014-03-28,Passau,4,n,False,False,2014 - University of Passau
+201,2015,University of Graz,https://dhd2015.uni-graz.at/de/,2015-02-23,2015-02-28,Graz,5,n,True,False,2015 - University of Graz
+202,2016,University of Leipzig,http://dhd2016.de/,2016-03-07,2016-03-11,Leipzig,4,n,True,True,2016 - University of Leipzig
+203,2017,University of Bern,http://www.dhd2017.ch/,2017-02-13,2017-02-18,Bern,9,n,True,False,2017 - University of Bern
+204,2018,University of Cologne,https://dhd2018.uni-koeln.de/,2018-02-26,2018-03-02,Cologne,4,n,True,True,2018 - University of Cologne
+205,2019,Johannes Gutenberg University;Goethe University,https://dhd2019.org/,2019-03-25,2019-03-29,Frankfurt & Mainz,4,n,True,True,2019 - Johannes Gutenberg University;Goethe University
+206,2020,University of Paderborn,https://zenodo.org/record/3666690,2020-03-02,2020-03-06,Paderborn,4,n,True,True,2020 - University of Paderborn
+207,2016,University of Oslo,https://www.hf.uio.no/iln/english/research/networks/digital-humanities/news-and-events/news/dhn2016-march-15---17.html,2016-03-15,2016-03-17,Oslo,35,n,True,True,2016 - University of Oslo
+208,2017,University of Gothenburg,https://web.archive.org/web/20180626065134/http://dhn2017.eu/,2017-03-14,2017-03-16,Gothenburg,34,n,True,True,2017 - University of Gothenburg
+209,2018,University of Helsinki,https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/dhn-2018,2018-03-07,2018-03-09,Helsinki,8,n,True,True,2018 - University of Helsinki
+210,2019,University of Copenhagen,https://cst.dk/DHN2019/DHN2019.html,2019-03-06,2019-03-08,Copenhagen,10,n,True,True,2019 - University of Copenhagen
+211,2020,National Library of Latvia,http://dig-hum-nord.eu/conferences/dhn2020/,2020-10-20,2020-10-23,Riga,30,n,True,True,2020 - National Library of Latvia
+212,2014,European House of Human and Social Sciences,http://dhnord2014.meshs.fr/,2014-05-26,2014-05-28,Lille,2,n,True,True,2014 - European House of Human and Social Sciences
+213,2015,European House of Human and Social Sciences,https://www.meshs.fr/page/dhnord_2015,2015-10-16,2015-10-16,Lille,2,n,True,False,2015 - European House of Human and Social Sciences
+214,2016,European House of Human and Social Sciences,https://www.meshs.fr/page/dhnord_2016,2016-11-21,2016-11-23,Lille,2,n,True,False,2016 - European House of Human and Social Sciences
+215,2017,European House of Human and Social Sciences,https://dhnord2017.sciencesconf.org/,2017-11-27,2017-11-29,Lille,2,n,True,False,2017 - European House of Human and Social Sciences
+216,2018,European House of Human and Social Sciences,https://www.meshs.fr/page/dhnord2018,2018-10-15,2018-10-17,Lille,2,n,True,False,2018 - European House of Human and Social Sciences
+217,2019,European House of Human and Social Sciences,https://www.meshs.fr/page/dhnord_2019_corpus_et_archives_numeriques,2019-10-16,2019-10-18,Lille,2,n,True,True,2019 - European House of Human and Social Sciences
+218,2017,Siberian Federal University,http://conf.krasu.ru/en/dhrussia2017/info,2017-09-18,2017-09-23,Krasnoyarsk,51,n,True,False,2017 - Siberian Federal University
+219,2018,Perm State University,http://dhconf.ru/,2018-05-15,2018-05-18,Perm,51,n,True,False,2018 - Perm State University
+220,2017,Babeș-Bolyai University,https://www.docdroid.net/7IYcz1Y/call-for-projects.pdf,2017-11-28,2017-11-29,Cluj-Napoca,19,n,False,False,2017 - Babeș-Bolyai University
+221,2019,Babeș-Bolyai University,https://digihubb.centre.ubbcluj.ro/2019/11/28/digihubb-days-2019/,2019-11-28,2019-11-29,Cluj-Napoca,19,n,True,False,2019 - Babeș-Bolyai University
+222,2012,University of North Texas,http://digitalfrontiers.net/past-events/digital-frontiers-2012/,2012-09-20,2012-09-22,Denton,64,n,False,False,2012 - University of North Texas
+223,2013,University of North Texas,http://digitalfrontiers.net/past-events/df13/,2013-09-19,2013-09-21,Denton,64,n,False,False,2013 - University of North Texas
+224,2014,Texas Woman's University,http://digitalfrontiers.net/past-events/df14/,2014-09-18,2014-09-19,Denton,64,n,False,False,2014 - Texas Woman's University
+225,2015,University of Texas at Dallas,http://digitalfrontiers.net/past-events/df15/,2015-09-17,2015-09-19,Dallas,64,n,False,False,2015 - University of Texas at Dallas
+226,2016,Rice University,http://digitalfrontiers.net/past-events/df16/,2016-09-22,2016-09-24,Houston,64,n,False,False,2016 - Rice University
+227,2017,University of North Texas,http://digitalfrontiers.net/past-events/df17/,2017-09-21,2017-09-23,Denton,64,n,False,False,2017 - University of North Texas
+228,2019,University of North Texas,https://digital-frontiers.org/past-events/resistance/,2019-05-02,2019-05-04,Denton,64,n,True,False,2019 - University of North Texas
+229,2019,University of Texas at Austin,https://digital-frontiers.org/past-events/df2019/,2019-09-26,2019-09-28,Austin,64,n,True,False,2019 - University of Texas at Austin
+230,2018,University of Kansas,https://idrh.ku.edu/digital-frontiers-2018,2018-10-04,2018-10-06,Lawrence,64,n,True,True,2018 - University of Kansas
+231,2015,East Carolina University,https://dissh.ecu.edu/dissh-symposium/2015-symposium/,2015-03-18,2015-03-18,Greenville,64,n,True,False,2015 - East Carolina University
+232,2016,East Carolina University,https://dissh.ecu.edu/dissh-symposium/2016-symposium/,2016-03-17,2016-03-18,Greenville,64,n,True,False,2016 - East Carolina University
+233,2017,East Carolina University,https://dissh.ecu.edu/dissh-symposium/2017-symposium/,2017-03-16,2017-03-16,Greenville,64,n,True,False,2017 - East Carolina University
+234,1996,"Somerville College, Oxford",http://web.archive.org/web/20011006120714/http://users.ox.ac.uk/~drh97/drh96/drh96d.html,1996-07-01,1996-07-03,Oxford,65,n,False,False,"1996 - Somerville College, Oxford"
+235,2005,University of Lancaster,http://web.archive.org/web/20051216004828/http://www.ahds.ac.uk/drh2005/index.php?cf=1,2005-09-04,2005-09-07,Lancaster,65,n,True,True,2005 - University of Lancaster
+236,2006,Darlington College of Arts,http://www.drh.org.uk/drha2006.htm,2006-09-03,2006-09-06,Darlington,65,n,False,False,2006 - Darlington College of Arts
+237,2007,Darlington College of Arts,https://web.archive.org/web/20071117032533/http://www.dartington.ac.uk/drha07/,2007-09-09,2007-09-12,Darlington,65,n,False,False,2007 - Darlington College of Arts
+238,2008,University of Cambridge,http://www.drh.org.uk/,2008-09-14,2008-09-17,Cambridge,65,n,False,False,2008 - University of Cambridge
+239,2009,"Queen's University, Belfast",http://web.archive.org/web/20121123063049/http://www.dho.ie/drha2009/,2009-09-07,2009-09-09,Belfast,65,n,True,True,"2009 - Queen's University, Belfast"
+240,2010,"Brunel University, London",http://www.drha.uk/portfolio-of-drha-conferences/,2010-09-12,2010-09-15,London,65,n,False,False,"2010 - Brunel University, London"
+241,2011,"University of Nottingham, China",http://web.archive.org/web/20110903075033/http://www.nottingham.ac.uk/drha/index.aspx,2011-09-04,2011-09-07,Ningbo,22,n,False,False,"2011 - University of Nottingham, China"
+242,2013,University of Winchester,http://www.winchester.ac.uk/DHRA,2013-07-21,2013-07-23,Winchester,65,n,False,False,2013 - University of Winchester
+243,2014,University of Greenwich,http://drha.uk/2014/,2014-08-31,2014-09-03,London,65,n,True,False,2014 - University of Greenwich
+244,2015,Dublin City University,http://web.archive.org/web/20150611124138/http://www.drha2015.ie/,2015-08-30,2015-09-02,Dublin,16,n,False,False,2015 - Dublin City University
+245,1997,"St. Anne's College, Oxford",http://web.archive.org/web/20010520025734/http://users.ox.ac.uk:80/~drh97/,1997-09-14,1997-09-17,Oxford,65,n,True,True,"1997 - St. Anne's College, Oxford"
+246,2016,University of Brighton,http://web.archive.org/web/20161101015647/http://www.drha2016.com/,2016-09-04,2016-09-07,Brighton,65,n,False,False,2016 - University of Brighton
+247,2017,Arts Institute - University of Plymouth,http://web.archive.org/web/20170624153258/http://drha2017.com/,2017-09-10,2017-09-13,Plymouth,65,n,True,False,2017 - Arts Institute - University of Plymouth
+248,2018,St James Cavalier Sazju Kreattiv,https://web.archive.org/web/20180830200631/https://drha2018.org/,2018-09-09,2018-09-12,Valletta,76,n,False,False,2018 - St James Cavalier Sazju Kreattiv
+249,2019,"Watermans Art Centre, Royal Central School Speach & Drama",http://www.2019.drha.uk/,2019-09-08,2019-09-10,London,65,n,True,True,"2019 - Watermans Art Centre, Royal Central School Speach & Drama"
+250,2020,University of Salford,http://www.drha.uk/salford2020/,2020-09-06,2020-09-09,Manchester,65,n,False,False,2020 - University of Salford
+251,1998,University of Glasgow,http://web.archive.org/web/20010420083400/http://drh98.hatii.arts.gla.ac.uk/,1998-09-09,1998-09-12,Glasgow,65,n,True,False,1998 - University of Glasgow
+252,1999,"King's College, London",http://web.archive.org/web/20011116234101fw_/http://www.kcl.ac.uk/humanities/cch/drh/index-drh99.htm,1999-09-12,1999-09-15,London,65,n,True,True,"1999 - King's College, London"
+253,2000,University of Sheffield,http://web.archive.org/web/20011115004539/http://www.shef.ac.uk/~drh2000/,2000-09-10,2000-09-13,Sheffield,65,n,True,False,2000 - University of Sheffield
+254,2001,"School of Oriental and African Studies, University of London",http://web.archive.org/web/20010517061449/http://drh2001.soas.ac.uk/,2001-07-08,2001-07-10,London,65,n,False,False,"2001 - School of Oriental and African Studies, University of London"
+255,2002,Edinburgh University Library,http://web.archive.org/web/20070812133605/http://www.drh2002.lib.ed.ac.uk/index.html,2002-09-08,2002-09-11,Edinburgh,65,n,True,True,2002 - Edinburgh University Library
+256,2003,"University of Gloucestershire, School of Humanities",http://web.archive.org/web/20161212215634/http://projects.oucs.ox.ac.uk/DRHA/2003/gloster.htm,2003-08-31,2003-07-03,Gloucestershire,65,n,True,False,"2003 - University of Gloucestershire, School of Humanities"
+257,2004,University of Newcastle,http://projects.oucs.ox.ac.uk/DRHA/2004/index.html,2004-09-05,2004-08-08,Newcastle,65,n,True,False,2004 - University of Newcastle
+258,1967,Pittsburgh,,1967-06-08,1967-06-10,Pittsburgh,64,n,False,False,1967 - Pittsburgh
+259,2019,University of North Florida,https://www.unf.edu/dhi/Inaugural_FLDH_Conference/,2019-03-29,2019-03-30,Jacksonville,64,n,True,False,2019 - University of North Florida
+260,2020,Flagler College,https://www.fldh.org/fldhconference/,,,St. Augustine,64,n,False,False,2020 - Flagler College
+261,2007,Duke University;RENCI,https://www.hastac.org/information-year-2007/electronic-techtonics,2007-04-19,2007-04-21,Durham,64,n,True,True,2007 - Duke University;RENCI
+262,2017,Orlando,https://www.hastac.org/hastac-conferences/hastac-2017-possible-worlds-digital-humanities,2017-11-03,2017-11-04,Orlando,64,n,True,False,2017 - Orlando
+263,2019,University of British Columbia,http://web.archive.org/web/20190719183703/http://hastac2019.org/,2019-05-16,2019-05-18,Vancouver,13,n,True,False,2019 - University of British Columbia
+264,2008,"University of California Humanities Research Institute;University of California, Irvine;University of California, Los Angeles",https://www.hastac.org/hastac-conferences/hastac-ii-techno-travels-2008,2008-05-22,2008-05-24,,64,n,True,False,"2008 - University of California Humanities Research Institute;University of California, Irvine;University of California, Los Angeles"
+265,2009,"University of Illinois, Urbana-Champagne",https://www.hastac.org/hastac-conferences/hastac-2009-conference-buzz,2009-04-19,2009-04-21,Urbana-Champagne,64,n,False,False,"2009 - University of Illinois, Urbana-Champagne"
+266,2010,"University of Illinois, Chicago",https://www.hastac.org/hastac-2010-grand-challenges-and-global-innovations,2010-04-15,2010-04-17,Chicago,64,n,False,False,"2010 - University of Illinois, Chicago"
+267,2011,University of Michigan,https://www.hastac.org/blogs/ddholiya/2012/01/26/digital-scholarly-communication-conference-proceedings-hastac-2011,2011-12-01,2011-12-03,Ann Arbor,64,n,True,True,2011 - University of Michigan
+268,2013,York University,https://www.hastac.org/hastac-conferences/hastac-2013-storm-progress-new-horizons-new-narratives-new-codes,2013-04-25,2013-04-28,Toronto,13,n,True,False,2013 - York University
+269,2014,El Ministerio Cultura,https://www.hastac.org/blogs/superadmin/2014/03/01/hastac-2014-hemispheric-pathways-critical-makers-international-networks,2014-04-24,2014-04-27,Lima,42,n,True,False,2014 - El Ministerio Cultura
+270,2015,Michigan State University,https://web.archive.org/web/20160208233641/http://www.hastac2015.org/,2015-05-27,2015-05-30,East Lansing,64,n,True,True,2015 - Michigan State University
+271,2016,Arizona State University,https://www.hastac.org/opportunities/hastac-2016-impact-variation-innovation-action,2016-05-11,2016-05-15,Tempe,64,n,True,False,2016 - Arizona State University
+272,2013,University of A Coruña,http://web.archive.org/web/20150927223702/http://hdh2013.humanidadesdigitales.org/,2013-07-09,2013-07-12,A Coruña,21,n,False,False,2013 - University of A Coruña
+273,2015,National Distance Education University,http://web.archive.org/web/20151027092107/http://hdh2015.linhd.es/,2015-10-05,2015-10-07,Madrid,21,n,True,False,2015 - National Distance Education University
+274,2017,University of Malaga,http://web.archive.org/web/20180223135019/http://hdh2017.es/,2017-10-18,2017-10-20,Málaga,21,n,True,False,2017 - University of Malaga
+275,2019,University of Castilla-La Mancha,https://eventos.uclm.es/24964/detail/iv-congreso-internacional-de-la-asociacion-de-humanidades-digitales-hispanicas.html,2019-10-23,2019-10-25,Toledo,21,n,True,False,2019 - University of Castilla-La Mancha
+276,1965,Purdue University,,1965-10-29,1965-10-30,West Lafayette,64,n,False,False,1965 - Purdue University
+277,1964,Rutgers,,1964-12-04,1964-12-04,New Brunswick,64,c,True,True,1964 - Rutgers
+278,1964,Yorktown Heights,,1964-09-09,1964-09-11,Yorktown Heights,64,i,True,False,1964 - Yorktown Heights
+279,1965,University of California Los Angeles,,1965-04-15,1965-04-16,Los Angeles,64,n,False,False,1965 - University of California Los Angeles
+280,1965,Boston University,,1965-11-04,1965-11-05,Boston,64,n,False,False,1965 - Boston University
+281,1965,Yale,,1965-01-22,1965-01-23,New Haven,64,n,True,True,1965 - Yale
+282,1965,Georgetown University,,1965-10-21,1965-10-22,"Washington, D.C.",64,n,False,False,1965 - Georgetown University
+283,1968,The Metropolitan Museum of Art,,1968-04-15,1968-04-18,New York,64,i,True,True,1968 - The Metropolitan Museum of Art
+284,1969,White Plains,,1969-06-30,1969-07-02,White Plains,64,n,False,False,1969 - White Plains
+285,1979,Dartmouth College,,1979-08-23,1979-08-24,Hanover,64,n,False,False,1979 - Dartmouth College
+286,1980,Facultad Politecnico de Madrid,,1980-06-16,1980-06-19,Madrid,21,n,False,False,1980 - Facultad Politecnico de Madrid
+287,1981,University of Michigan,,1981-05-20,1981-05-22,Ann Arbor,64,n,False,False,1981 - University of Michigan
+288,1983,Rutgers,,1983-06-10,1983-06-12,New Brunswick,64,n,False,False,1983 - Rutgers
+289,1985,Grinnell College,,1985-06-22,1985-06-24,Grinnell,64,n,False,False,1985 - Grinnell College
+290,1987,Auburn University,,1987-07-11,1979-07-13,Montgomery,64,n,False,False,1987 - Auburn University
+291,1988,Cologne,,1988-09-07,1988-09-10,Cologne,4,n,False,False,1988 - Cologne
+292,2000,"Washington, D.C.",http://web.archive.org/web/20000816025605/http://cecssrv1.cecs.missouri.edu/webwise/,2000-03-15,2000-03-17,"Washington, D.C.",64,n,True,False,"2000 - Washington, D.C."
+293,2009,"Washington, D.C.",http://web.archive.org/http://webwise2009.fcla.edu/,2009-02-25,2009-02-27,"Washington, D.C.",64,n,True,False,"2009 - Washington, D.C."
+294,2010,Denver,http://web.archive.org/web/20101205043405/http://www.bcr.org/webwise2010/,2010-03-03,2010-03-05,Denver,64,n,True,True,2010 - Denver
+295,2011,Baltimore,http://web.archive.org/web/20160209193143/http://webwise2011.library.du.edu/,2011-03-09,2011-03-11,Baltimore,64,n,False,False,2011 - Baltimore
+296,2012,Baltimore,http://web.archive.org/web/20120521152216/http://www.imlswebwise.org/,2012-02-29,2012-03-02,Baltimore,64,n,True,True,2012 - Baltimore
+297,2013,Baltimore,http://web.archive.org/web/20130724164705/http://imlswebwise.org/,2013-03-06,2013-03-08,Baltimore,64,n,True,True,2013 - Baltimore
+298,2014,Baltimore,http://web.archive.org/web/20140821144825/http://imlswebwise.org/,2014-02-10,2014-02-12,Baltimore,64,n,True,False,2014 - Baltimore
+299,2001,"Washington, D.C.",http://web.archive.org/web/20010725054537/http://cecssrv1.cecs.missouri.edu/webwise/,2001-02-12,2001-02-14,"Washington, D.C.",64,n,True,False,"2001 - Washington, D.C."
+300,2002,Baltimore,http://web.archive.org/web/20040701072901/http://www.imls.gov:80/pubs/webwise2002/webwisesched.pdf,2002-03-20,2002-03-22,Baltimore,64,n,True,False,2002 - Baltimore
+301,2003,"Washington, D.C.",http://web.archive.org/web/20090627023125/http://webwise.mse.jhu.edu/,2003-02-26,2003-02-28,"Washington, D.C.",64,n,True,False,"2003 - Washington, D.C."
+302,2004,University of Illinois at Chicago,http://web.archive.org/web/20080120014636/http://www.uic.edu/depts/lib/systems/webwise2004/,2004-03-03,2004-03-05,Chicago,64,n,True,False,2004 - University of Illinois at Chicago
+303,2005,"Washington, D.C.",http://web.archive.org/web/20051001054727/http://www.uic.edu/depts/lib/webwise/,2005-02-17,2005-02-18,"Washington, D.C.",64,n,True,False,"2005 - Washington, D.C."
+304,2006,Los Angeles,https://www.getty.edu/webwise2006/conference/,2006-02-15,2006-02-17,Los Angeles,64,n,True,False,2006 - Los Angeles
+305,2007,Los Angeles,http://www.getty.edu/webwise2007/conference/,2007-03-01,2007-03-02,Los Angeles,64,n,True,False,2007 - Los Angeles
+306,2008,Miami Beach,http://web.archive.org/web/20110902053503/http://webwise2008.fcla.edu/,2008-03-05,2008-03-08,Miami Beach,64,n,True,False,2008 - Miami Beach
+307,2015,University of Pennsylvania,http://keystonedh.network/2015/,2015-07-22,2015-07-24,Philadelphia,64,n,True,False,2015 - University of Pennsylvania
+308,2016,University of Pittsburgh,http://keystonedh.network/2016/,2016-06-22,2016-06-24,Pittsburgh,64,n,True,True,2016 - University of Pittsburgh
+309,2017,The Chemical Heritage Foundation,http://keystonedh.network/2017/,2017-06-12,2017-06-14,Philadelphia,64,n,True,True,2017 - The Chemical Heritage Foundation
+310,2018,Pennsylvania State University,http://keystonedh.network/2018/,2018-06-16,2018-06-18,State College,64,n,True,False,2018 - Pennsylvania State University
+311,2013,Detroit,http://detroitdh.org/archive/2013_archive/,2013-09-27,2013-09-27,Detroit,64,n,True,False,2013 - Detroit
+312,2014,Detroit,http://detroitdh.org/archive/2014_archive/,2014-09-26,2014-09-26,Detroit,64,n,True,False,2014 - Detroit
+313,2015,Detroit,http://detroitdh.org/archive/2015_archive/,2015-09-25,2015-09-25,Detroit,64,n,True,False,2015 - Detroit
+314,2016,Detroit,http://detroitdh.org/archive/2016_archive/,2016-09-30,2016-09-30,Detroit,64,n,True,False,2016 - Detroit
+315,2017,Detroit,http://detroitdh.org/archive/2017_archive/,2017-10-21,2017-10-21,Detroit,64,n,False,False,2017 - Detroit
+316,2018,Detroit,http://detroitdh.org/archive/2018-schedule/,2018-09-21,2018-09-21,Detroit,64,n,True,True,2018 - Detroit
+317,2019,Detroit,http://detroitdh.org/network-detroit-2019/2019-program/,2019-09-27,2019-09-27,Detroit,64,n,True,True,2019 - Detroit
+318,2019,Nanyang Technological University,http://compling.hss.ntu.edu.sg/events/2019-pnc/,2019-10-15,2019-10-18,Singapore,44,n,True,False,2019 - Nanyang Technological University
+319,2018,George Mason University,https://crdh.rrchnm.org/conference/2018/,2018-03-17,2018-03-17,Arlington,64,n,True,False,2018 - George Mason University
+320,2019,George Mason University,https://crdh.rrchnm.org/conference/2019/,2019-03-09,2019-03-09,Arlington,64,n,True,False,2019 - George Mason University
+321,2009,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=D09k2,2009-12-01,2009-12-02,Taipei,68,n,True,False,2009 - National Taiwan University
+322,2019,National Taiwan Normal University,https://dadh2019.conf.tw/site/page.aspx?pid=901&sid=1308&lang=en,2019-12-03,2019-12-06,Taipei,68,n,True,False,2019 - National Taiwan Normal University
+323,2010,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=Y10k2,2010-11-29,2010-11-30,Taipei,68,n,True,True,2010 - National Taiwan University
+324,2011,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=MMXXI,2011-12-01,2011-12-02,Taipei,68,n,True,True,2011 - National Taiwan University
+325,2012,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=MKOOO,2012-11-29,2012-11-30,Taipei,68,n,True,True,2012 - National Taiwan University
+326,2014,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=EKALM,2014-12-01,2014-12-02,Taipei,68,n,True,True,2014 - National Taiwan University
+327,2015,National Taiwan University,http://dadh-2015.digital.ntu.edu.tw/en/,2015-11-30,2015-12-02,Taipei,68,n,True,True,2015 - National Taiwan University
+328,2016,National Taiwan University,http://www.dadh-record.digital.ntu.edu.tw/Scope.php?LangType=en&His=BHUGF,2016-12-01,2016-12-03,Taipei,68,n,False,False,2016 - National Taiwan University
+329,2017,National Chengchi University,http://www.aiecon.org/conference/DADH2017/,2017-11-29,2017-12-01,Taipei,68,n,True,True,2017 - National Chengchi University
+330,2018,Dharma Drum Institute of Liberal Arts,http://dadh2018.dila.edu.tw/?lang=en,2018-12-18,2018-12-21,New Taipei City,68,n,True,True,2018 - Dharma Drum Institute of Liberal Arts
+331,2001,Pisa,https://tei-c.org/Vault/MembersMeetings/2001-info/,2001-11-16,2001-11-17,Pisa,26,n,True,True,2001 - Pisa
+332,2010,University of Zadar,https://tei-c.org/Vault/MembersMeetings/2010-info/,2010-11-08,2010-11-14,Zadar,61,n,True,False,2010 - University of Zadar
+333,2011,University of Würzburg,https://tei-c.org/Vault/MembersMeetings/2011-info/,2011-10-10,2011-10-16,Würzburg,4,n,True,False,2011 - University of Würzburg
+334,2012,Texas A&M University,https://tei-c.org/Vault/MembersMeetings/2012-info/,2012-11-07,2012-11-10,College Station,,n,True,False,2012 - Texas A&M University
+335,2013,Università La Sapienza,https://tei-c.org/Vault/MembersMeetings/2013-info/,2013-10-02,2013-10-05,Rome,26,n,True,True,2013 - Università La Sapienza
+336,2014,Northwestern University,https://tei-c.org/Vault/MembersMeetings/2014-info/,2014-10-22,2014-10-24,Evanston,64,n,True,False,2014 - Northwestern University
+337,2015,Lyon,https://tei-c.org/Vault/MembersMeetings/2015-info/,2015-10-26,2015-10-31,Lyon,2,n,True,True,2015 - Lyon
+338,2016,Austrian Academy of Sciences,https://tei-c.org/Vault/MembersMeetings/2016-info/,2016-09-26,2016-09-30,Vienna,5,n,True,True,2016 - Austrian Academy of Sciences
+339,2017,University of Victoria,https://tei-c.org/Vault/MembersMeetings/2017/schedule.php.html,2017-11-11,2017-11-15,Victoria,13,n,True,True,2017 - University of Victoria
+340,2018,University of Tokyo,https://tei-c.org/Vault/MembersMeetings/2018-info/,2018-09-09,2018-09-13,Tokyo,17,n,True,True,2018 - University of Tokyo
+341,2019,University of Graz,https://graz-2019.tei-c.org/,2019-09-16,2020-09-16,Graz,5,n,True,True,2019 - University of Graz
+342,2002,Newberry Library,https://tei-c.org/Vault/MembersMeetings/2002-info/,2002-10-11,2002-10-12,Chicago,64,n,True,True,2002 - Newberry Library
+343,2003,Université de Nancy,https://tei-c.org/Vault/MembersMeetings/2003-info/,2003-11-07,2003-11-08,Nancy,2,n,True,True,2003 - Université de Nancy
+344,2004,Johns Hopkins University,https://tei-c.org/Vault/MembersMeetings/2004-info/,2004-10-22,2004-10-23,Baltimore,64,n,True,False,2004 - Johns Hopkins University
+345,2005,Bulgarian Academy of Sciences,https://tei-c.org/Vault/MembersMeetings/2005-info/,2005-10-28,2005-10-29,Sofia,25,n,True,False,2005 - Bulgarian Academy of Sciences
+346,2006,Victoria,https://tei-c.org/Vault/MembersMeetings/2006-info/,2006-10-27,2006-10-28,Victoria,13,n,True,True,2006 - Victoria
+347,2007,Univeristy of Maryland,https://tei-c.org/Vault/MembersMeetings/2007-info/,2007-10-31,2007-11-03,College Park,64,n,True,False,2007 - Univeristy of Maryland
+348,2008,King's College London,https://tei-c.org/Vault/MembersMeetings/2008-info/,2008-11-06,2008-11-08,London,,n,True,True,2008 - King's College London
+349,2009,University of Michigan,https://tei-c.org/Vault/MembersMeetings/2009-info/,2009-11-11,2009-11-15,Ann Arbor,64,n,True,True,2009 - University of Michigan
+350,1997,Brown University,http://web.archive.org/web/19990209043855/http://www.stg.brown.edu/webs/tei10/,1997-11-14,1997-11-16,Providence,64,n,True,True,1997 - Brown University
+351,2014,University of Houston,http://web.archive.org/web/20170301204757/http://www.txdhc.org/conferences/2014-uh/,2014-04-10,2014-04-12,Houston,64,n,True,False,2014 - University of Houston
+352,2015,University of Texas at Arlington,https://rc.library.uta.edu/uta-ir/handle/10106/25655,2015-04-09,2015-04-11,Arlington,64,n,True,True,2015 - University of Texas at Arlington
+353,2016,University of Texas at Austin,http://web.archive.org/web/20171208175744/http://www.txdhc.org/2016-atx-mini-con/,2016-05-27,2016-05-27,Austin,64,n,True,True,2016 - University of Texas at Austin
+354,2020,DHLab/KNAW,https://cohure.github.io/CoHuRe/cfp/,2020-11-18,2020-11-20,Amsterdam,1,n,False,False,2020 - DHLab/KNAW
+355,2020,Hartford,https://ctdh.io,2020-02-28,2020-02-29,Hartford,64,n,True,True,2020 - Hartford
+356,2016,Carleton College,https://www.carleton.edu/digital-humanities/conferences/day-of-dh/day-of-dh2016/,2016-05-02,2016-05-02,Northfield,64,n,True,True,2016 - Carleton College
+357,2017,Carleton College,https://www.carleton.edu/digital-humanities/conferences/day-of-dh/day-of-dh2017/,2017-06-02,2017-06-02,Northfield,64,n,True,True,2017 - Carleton College
+358,2018,Carleton College,https://www.carleton.edu/digital-humanities/conferences/day-of-dh/day-of-dh2018/,2018-06-01,2018-06-01,Northfield,64,n,True,True,2018 - Carleton College
+359,2019,Carleton College,https://www.carleton.edu/digital-humanities/conferences/day-of-dh/day-of-dh2019/,2019-06-07,2019-06-07,Northfield,64,n,True,True,2019 - Carleton College
+360,2009,Luxembourg,https://www.cvce.eu/recherche/unit-content/-/unit/4c27b9e6-515c-4a1c-adbe-8e9979175e86/4c27b9e6-515c-4a1c-adbe-8e9979175e86/Resources,2009-10-15,2009-10-16,Luxembourg,27,n,True,False,2009 - Luxembourg
+361,2012,Luxembourg,https://www.cvce.eu/recherche/unit-content/-/unit/c2586238-9c6c-4623-aa29-fe61e9b1a459,2012-03-20,2012-03-21,Luxembourg,27,n,True,False,2012 - Luxembourg
+362,2013,Centre Virtuel de la Connaissance sur l’Europe,https://www.cvce.eu/en/recherche/unit-content/-/unit/4a645c2b-e393-4adf-9ce6-4d8628561eb8/413a36ec-f45a-4c54-819d-ac544fee46ff,2013-12-05,2013-12-06,Luxembourg,27,n,True,False,2013 - Centre Virtuel de la Connaissance sur l’Europe
+363,2012,University of Sheffield,https://www.dhi.ac.uk/dhc2012/,2012-09-06,2012-09-08,Sheffield,65,n,True,True,2012 - University of Sheffield
+364,2014,University of Sheffield,https://www.dhi.ac.uk/dhc2014/,2014-09-04,2014-09-06,Sheffield,65,n,True,True,2014 - University of Sheffield
+365,2016,University of Sheffield,https://www.dhi.ac.uk/dhc2016/,2016-09-08,2016-09-10,Sheffield,65,n,True,False,2016 - University of Sheffield
+366,2018,University of Sheffield,https://www.dhi.ac.uk/dhc2018/,2018-09-06,2018-09-08,Sheffield,65,n,True,True,2018 - University of Sheffield
+367,2011,University of Kansas,https://idrh.ku.edu/dhforum2011,2011-09-24,2011-09-24,Lawrence,64,n,True,False,2011 - University of Kansas
+368,2012,University of Kansas,https://idrh.ku.edu/dhforum2012,2012-09-20,2012-09-22,Lawrence,64,n,True,False,2012 - University of Kansas
+369,2013,University of Kansas,https://idrh.ku.edu/dhforum2013,2013-09-12,2013-09-14,Lawrence,64,n,True,False,2013 - University of Kansas
+370,2014,University of Kansas,https://idrh.ku.edu/dhforum2014,2014-09-12,2014-09-13,Lawrence,64,n,True,False,2014 - University of Kansas
+371,2015,University of Kansas,https://idrh.ku.edu/dhforum2015,2015-09-24,2015-09-26,Lawrence,64,n,True,False,2015 - University of Kansas
+372,2016,University of Kansas,https://idrh.ku.edu/dhforum2016,2016-10-01,2016-10-01,Lawrence,64,n,True,True,2016 - University of Kansas
+373,2017,University of Kansas,https://idrh.ku.edu/dhforum2017,2017-09-28,2017-09-29,Lawrence,64,n,True,False,2017 - University of Kansas
+374,2019,University of Kansas,https://idrh.ku.edu/dhforum2019,2019-10-03,2019-10-04,Lawrence,64,r,True,False,2019 - University of Kansas
+375,2018,University of Alabama,https://adhc.lib.ua.edu/digitorium/?page_id=71,2018-10-04,2018-10-06,Tuscaloosa,64,n,True,True,2018 - University of Alabama
+376,2019,University of Alabama,https://adhc.lib.ua.edu/digitorium/?page_id=69,2019-10-10,2019-10-12,Tuscaloosa,64,n,True,True,2019 - University of Alabama
+377,2020,University of Alabama,https://adhc.lib.ua.edu/digitorium/,2020-10-01,2020-10-03,Tuscaloosa,64,n,False,False,2020 - University of Alabama
+378,2016,Michigan State University,http://msudh.github.io/globaldh2016/,2016-04-08,2016-04-09,East Lansing,64,n,True,False,2016 - Michigan State University
+379,2017,Michigan State University,http://2017.msuglobaldh.org/,2017-03-16,2017-03-17,East Lansing,64,n,True,True,2017 - Michigan State University
+380,2018,Michigan State University,http://2018.msuglobaldh.org/,2018-03-22,2018-03-23,East Lansing,64,n,True,True,2018 - Michigan State University
+381,2019,Michigan State University,http://www.2019.msuglobaldh.org/,2019-03-21,2019-03-22,East Lansing,64,n,True,True,2019 - Michigan State University
+382,2020,Michigan State University,https://web.archive.org/web/20200807153225/http://msuglobaldh.org/program/,2020-03-26,2020-03-27,East Lansing,64,n,True,True,2020 - Michigan State University
+383,2019,Akademie der Wissenschaften und der Literatur in Mainz,https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2019,2019-01-18,2019-01-19,Mainz,4,n,True,False,2019 - Akademie der Wissenschaften und der Literatur in Mainz
+384,2020,University of Vienna; Akademie der Wissenschaften und der Literatur in Mainz,https://graphentechnologien.hypotheses.org/657,2020-02-21,2020-02-22,Vienna,5,n,True,True,2020 - University of Vienna; Akademie der Wissenschaften und der Literatur in Mainz
+385,2015,Nationale Bibliotheek,https://www.kb.nl/nieuws/2015/historische-kranten-als-big-data,2015-03-25,2015-03-25,The Hague,1,n,True,False,2015 - Nationale Bibliotheek
+386,2017,Nationale Bibliotheek,https://www.kb.nl/nieuws/2016/historische-kranten-als-big-data-ii-concepten-op-drift,2017-06-20,2017-06-20,The Hague,1,n,True,False,2017 - Nationale Bibliotheek
+387,2013,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2013-02-07,2013-02-07,Lincoln,64,n,False,False,2013 - University of Nebraska-Lincoln
+388,2014,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2014-04-10,2014-04-11,Lincoln,64,n,True,True,2014 - University of Nebraska-Lincoln
+389,2015,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2015-04-09,2015-04-10,Lincoln,64,n,True,True,2015 - University of Nebraska-Lincoln
+390,2016,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2016-04-07,2016-04-08,Lincoln,64,n,False,False,2016 - University of Nebraska-Lincoln
+391,2017,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2017-04-06,2017-04-07,Lincoln,64,n,False,False,2017 - University of Nebraska-Lincoln
+392,2018,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2018-10-25,2018-10-26,Lincoln,64,n,False,False,2018 - University of Nebraska-Lincoln
+393,2018,University of Nebraska-Lincoln,https://cdrh.unl.edu/news-events/nebraskaforum,2018-04-12,2018-04-13,Lincoln,64,n,False,False,2018 - University of Nebraska-Lincoln
+394,2016,Purdue University,https://cla.purdue.edu/academic/sis/p/african-american/symposium.html,2016-12-01,2016-12-03,West Lafayette,64,n,True,False,2016 - Purdue University
+395,1990,Elvetham Hall,,1990-05-09,1990-05-12,Hampshire,65,n,False,False,1990 - Elvetham Hall
+396,1994,Elvetham Hall,,1994-04-13,1994-04-16,Hampshire,65,n,False,False,1994 - Elvetham Hall
+397,2011,University of Texas at Austin,http://web.archive.org/web/20110210174733/http://tilts.dwrl.utexas.edu:80/symposia/i,2011-02-03,2011-02-05,Austin,64,n,True,False,2011 - University of Texas at Austin
+398,2011,University of Texas at Austin,http://web.archive.org/web/20110831051015/http://tilts.dwrl.utexas.edu/symposia/second,2011-03-10,2011-03-12,Austin,64,n,True,False,2011 - University of Texas at Austin
+399,2011,University of Texas at Austin,http://web.archive.org/web/20110831050901/http://tilts.dwrl.utexas.edu/symposia/third/,2011-05-26,2011-05-28,Austin,64,n,True,False,2011 - University of Texas at Austin
+400,1960,University of Tübingen,,1960-11-24,1960-11-26,Tübingen,4,n,False,False,1960 - University of Tübingen
+401,1964,Carnegie Mellon,,1964-06-06,1964-06-06,Pittsburgh,64,n,False,False,1964 - Carnegie Mellon
+402,1967,Boulder,,1967-08-03,1967-08-05,Boulder,64,n,False,False,1967 - Boulder
+403,1969,State University College,,1969-04-04,1969-04-05,Brockport,64,n,True,True,1969 - State University College
+404,1970,Pisa,,1970-08-16,1970-09-06,Pisa,26,n,True,False,1970 - Pisa
+405,2013,Herzen State Pedagogical University,http://www.netcabinet.ru/uploads/8/5/0/9/8509295/%D0%BD%D0%B0%D1%83%D0%BA%D0%B8_%D0%BE_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5_%D0%B2_%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5_%C2%ABdigital_humanities%C2%BB.compressed.pdf,2013-10-03,2013-10-05,St. Petersburg,51,n,True,True,2013 - Herzen State Pedagogical University
+406,2014,"South Carolina Digital Library, College of Charleston, and the Charleston Conference",https://dhinthelibrary.wordpress.com/,2014-06-20,2014-06-22,Charleston,64,n,True,False,"2014 - South Carolina Digital Library, College of Charleston, and the Charleston Conference"
+407,2015,Kansas State University,https://www.k-state.edu/digitalhumanities/symposium/schedule.html?fbclid=IwAR1n6AcoXi-CQewdoxNZ1kQdFljwFDAd2s0LzFWxmk4qIMbHrXSXNBEr8Hs,2015-02-27,2015-02-28,Manhattan,64,n,True,False,2015 - Kansas State University
+408,2016,National University of Singapore,http://web.archive.org/web/20191021083719/http://digitalhumanities.sg/cultural-specificity-in-digital-collections/,2016-08-12,2016-08-14,Singapore,44,n,True,False,2016 - National University of Singapore
+409,2018,Universidad Autónoma de Querétaro,http://www.fci.uaslp.mx/Documents/convocatorias/convocatoriachuaq.pdf,2018-10-22,2018-10-24,Santiago de Querétaro,38,n,True,False,2018 - Universidad Autónoma de Querétaro
+410,2018,Taipei,https://www.accupass.com/event/1805090529021557390223,2018-06-04,2018-06-05,Taipei,68,n,True,False,2018 - Taipei
+411,2018,University of Lausanne,https://wp.unil.ch/llist/event/comhum2018/,2018-06-04,2018-06-05,Lausanne,9,n,True,False,2018 - University of Lausanne
+412,2019,Centro Cultural Universitario Rogelio Salmona,https://hdigitales.sciencesconf.org/data/pages/ProgramaHDV2.pdf,2019-10-15,2019-10-17,Manizales,66,n,True,False,2019 - Centro Cultural Universitario Rogelio Salmona
+413,2019,Singapore University of Technology and Design,https://hass.sutd.edu.sg/news-events/event/seminar-series/digital-humanities-working-different-kinds-text-digital-humanities/,2019-03-18,2019-03-19,Singapore,44,n,True,False,2019 - Singapore University of Technology and Design
+414,2019,Università La Sapienza,https://saras.uniroma1.it/archivionotizie/ripensare-i-saperi-forma-digitale-esperienze-e-metodologie-di-digital-humanities,2019-04-01,2019-04-02,Rome,26,n,True,False,2019 - Università La Sapienza
+415,2019,IIT Hyderabad,https://www.digitalhumanities.in/,2019-11-28,2019-11-29,Hyderabad,14,c,True,False,2019 - IIT Hyderabad
+416,2019,The Chinese University of Hong Kong,http://dh.tra.cuhk.edu.hk/index.html,2019-12-09,2019-12-11,Hong Kong,22,n,False,False,2019 - The Chinese University of Hong Kong
+417,2020,German Studies Association,https://www.thegsa.org/blog/cfa-gsa-seminar-participation-applications-due-jan-27#Digital%20Humanities%20and%20the%20Second%20World%20War,2020-10-01,2020-10-04,"Washington, D.C.",64,n,False,False,2020 - German Studies Association
+419,2008,"Vancouver, Washington",https://dtc-wsuv.org/elit/elo08/conference.html,2008-05-29,2008-06-01,Vancouver,64,n,True,True,"2008 - Vancouver, Washington"
+420,2010,Brown,https://www.brown.edu/Conference/Electronic_Literature_Organization/,2010-06-03,2010-06-06,Providence,64,n,False,False,2010 - Brown
+421,2012,Morgantown,http://el.eliterature.org/,2012-06-20,2012-06-23,Morgantown,64,n,True,False,2012 - Morgantown
+422,2013,Paris,http://web.archive.org/web/20140709182714/http://conference.eliterature.org/2013/program,2013-09-23,2013-09-28,Paris,2,n,True,True,2013 - Paris
+423,2014,Milwaukee,http://web.archive.org/web/20150508054139/https://conference.eliterature.org/archive/2014,2014-06-19,2014-06-21,Milwaukee,64,n,True,False,2014 - Milwaukee
+424,2015,Bergen,http://web.archive.org/web/20180831030045/https://conference.eliterature.org/archive/2015,2015-08-05,2015-08-07,Bergen,35,n,True,True,2015 - Bergen
+425,2016,Victoria,http://elo2016.com/,2016-06-10,2016-06-12,Victoria,64,n,True,False,2016 - Victoria
+426,2017,Porto,http://web.archive.org/web/20181113201417/https://conference.eliterature.org/archive/2017,2017-07-18,2017-07-22,Porto,55,n,True,True,2017 - Porto
+427,2018,Montreal,https://sites.grenadine.uqam.ca/sites/nt2/en/elo2018,2018-08-13,2018-08-17,Montreal,13,n,True,True,2018 - Montreal
+428,2019,Cork,http://elo2019.ucc.ie/,2019-07-15,2019-07-17,Cork,16,n,True,True,2019 - Cork
+429,2020,Orlando,https://elo.cah.ucf.edu/,2020-07-16,2020-07-19,Orlando,64,n,False,False,2020 - Orlando
+430,1994,Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen,,,,Göttingen,4,n,False,False,1994 - Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen
+431,1995,Universität Osnabrück,,,,Universität Osnabrück,4,n,False,False,1995 - Universität Osnabrück
+432,1997,ZHFS/GESIS Köln und Österreichisches Kulturinstitut Rom (gemeinsame Veranstaltung),,,,Köln,4,n,False,False,1997 - ZHFS/GESIS Köln und Österreichisches Kulturinstitut Rom (gemeinsame Veranstaltung)
+433,1998,"Frankfurt a.M. (Historikertrag, Rahmenprogramm)",,,,Frankfurt am Main,4,n,False,False,"1998 - Frankfurt a.M. (Historikertrag, Rahmenprogramm)"
+434,1999,Universität Siegen,,,,Siegen,4,n,False,False,1999 - Universität Siegen
+435,2000,"Aachen (Historikertag, Rahmenprogramm)",,,,Aachen,4,n,False,False,"2000 - Aachen (Historikertag, Rahmenprogramm)"
+436,2001,Universitätsbibliothek Göttingen,,,,Göttingen,4,n,False,False,2001 - Universitätsbibliothek Göttingen
+437,2002,Philipps-Universität Marburg,,,,Marburg,4,n,False,False,2002 - Philipps-Universität Marburg
+438,2003,Westfälische Wilhelms-Universität Münster,,,,Münster,4,n,False,False,2003 - Westfälische Wilhelms-Universität Münster
+439,2004,Staatsbibliothek München,,,,München,4,n,False,False,2004 - Staatsbibliothek München
+440,2005,ZHSF/GESIS Köln,,,,Köln,4,n,False,False,2005 - ZHSF/GESIS Köln
+441,2006,Humboldt-Universität zu Berlin,,,,Berlin,4,n,False,False,2006 - Humboldt-Universität zu Berlin
+442,2007,Universität Hamburg,,,,Hamburg,4,n,False,False,2007 - Universität Hamburg
+443,2008,Johannes Gutenberg-Universität Mainz,,,,Mainz,4,n,False,False,2008 - Johannes Gutenberg-Universität Mainz
+444,2009,Universität Trier,,,,Trier,4,n,False,False,2009 - Universität Trier
+445,2010,Weiden (KZ-Gedenkstätte Flossenbürg),,,,Weiden,4,n,False,False,2010 - Weiden (KZ-Gedenkstätte Flossenbürg)
+446,2011,Universität Innsbruck,,,,Innsbruck,5,n,False,False,2011 - Universität Innsbruck
+447,2012,Universität Stuttgart,,,,Stuttgart,4,n,False,False,2012 - Universität Stuttgart
+448,2013,Philipps-Universität Marburg,,,,Marburg,4,n,False,False,2013 - Philipps-Universität Marburg
+449,2014,Institut für Ost- und Südosteuropaforschung Regensburg,,,,Germany,4,n,False,False,2014 - Institut für Ost- und Südosteuropaforschung Regensburg
+450,2015,Max-Weber-Kolleg für kultur- und sozialwissenschaftliche Studien der Universität Erfurt,,,,Erfurt,4,n,False,False,2015 - Max-Weber-Kolleg für kultur- und sozialwissenschaftliche Studien der Universität Erfurt
+451,2016,Universität Salzburg,,,,Salzburg,5,n,False,False,2016 - Universität Salzburg
+452,2017,Universität Leipzig,,,,Leipzig,4,n,False,False,2017 - Universität Leipzig
+453,2018,Universität Flensburg,,,,Flensburg,4,n,False,False,2018 - Universität Flensburg
+454,2019,Marburg,,,,Marburg,4,n,False,False,2019 - Marburg
+455,2019,Tampa,http://web.archive.org/web/20191214051306/https://forum2019.diglib.org/,2019-10-14,2019-10-16,Tampa,64,n,True,True,2019 - Tampa
+456,2018,Las Vegas,https://web.archive.org/web/20190102014801/https://forum2018.diglib.org/,2018-10-15,2018-10-17,Henderson,64,n,True,True,2018 - Las Vegas
+457,2017,Pittsburgh,https://web.archive.org/web/20191017021612/https://forum2017.diglib.org/,2017-10-22,2017-10-26,Pittsburgh,64,n,True,True,2017 - Pittsburgh
+458,1969,Poughkeepsie,,1969-06-30,1969-07-02,Poughkeepsie,64,i,False,False,1969 - Poughkeepsie
+459,2016,Milwaukee,https://web.archive.org/web/20170314224806/https://www.conftool.pro/dlf2016/sessions.php,2016-11-07,2016-11-09,Milwaukee,64,n,True,False,2016 - Milwaukee
+460,2015,Vancouver,https://dlfforum2015.sched.com/list/descriptions/,2015-10-26,2015-10-28,Vancouver,13,n,True,True,2015 - Vancouver
+461,2014,Atlanta,https://web.archive.org/web/20200415011200/https://www.diglib.org/dlf-events/2014forum/,2014-10-27,2014-10-29,Atlanta,64,n,True,True,2014 - Atlanta
+462,2013,Austin,https://www.diglib.org/dlf-events/2013forum/,2013-11-04,2013-11-06,Austin,64,n,True,True,2013 - Austin
+463,2012,Denver,https://www.diglib.org/dlf-events/2012forum/2012-dlf-forum-schedule/,2012-11-04,2012-11-05,Denver,64,n,True,True,2012 - Denver
+464,2011,Baltimore,https://www.diglib.org/dlf-events/2011forum/,2011-10-31,2011-11-01,Baltimore,64,n,True,True,2011 - Baltimore
+465,2010,Palo Alto,https://www.diglib.org/dlf-events/fall2010/,2010-11-01,2010-11-03,Palo Alto,64,n,True,True,2010 - Palo Alto
+466,2009,Long Beach,https://web.archive.org/web/20130725180144/http://old.diglib.org/forums/fall2009/2009fallschedule.htm,2009-11-11,2009-11-12,Long Beach,64,n,True,False,2009 - Long Beach
+467,2009,Raleigh,https://web.archive.org/web/20110930061009/http://old.diglib.org/forums/spring2009/2009springprogram.htm,2009-05-04,2009-05-06,Raleigh,64,n,True,True,2009 - Raleigh
+468,2008,Minneapolis,https://web.archive.org/web/20130731070849/http://old.diglib.org/forums/spring2008/2008springschedule.htm,2008-04-28,2008-04-30,Minneapolis,64,n,True,True,2008 - Minneapolis
+469,2008,Providence,https://web.archive.org/web/20130731075205/http://old.diglib.org/forums/fall2008/2008fallschedule.htm,2008-11-12,2008-11-14,Providence,64,n,True,True,2008 - Providence
+470,2007,Pasadena,https://web.archive.org/web/20120419070501/http://old.diglib.org/forums/spring2007/,2007-04-23,2007-04-25,Pasadena,64,n,True,True,2007 - Pasadena
+471,2007,Philadelphia,https://web.archive.org/web/20120217002449/http://old.diglib.org/forums/fall2007/2007fallprogram.htm,2007-11-05,2007-11-07,Philadelphia,64,n,True,True,2007 - Philadelphia
+472,2006,Austin,https://web.archive.org/web/20130725233724/http://old.diglib.org/forums/spring2006/spring2006program.htm,2006-04-10,2006-04-12,Austin,64,n,True,True,2006 - Austin
+473,2006,Boston,https://web.archive.org/web/20130605174839/http://old.diglib.org/forums/fall2006/fallforum06short.pdf,2006-11-08,2006-11-10,Boston,64,n,True,True,2006 - Boston
+474,2005,San Diego,https://web.archive.org/web/20060609225142/http://www.diglib.org/forums/spring2005/,2005-04-13,2005-04-15,San Diego,64,n,True,True,2005 - San Diego
+475,2005,Charlottesville,https://web.archive.org/web/20130725232531/http://old.diglib.org/forums/fall2005/fall2005program.htm,2005-11-07,2005-11-09,Charlottesville,64,n,True,True,2005 - Charlottesville
+476,2004,New Orleans,https://web.archive.org/web/20061003220831/http://www.diglib.org/forums/Spring2004/springforum04rev1.htm,2004-04-19,2004-04-21,New Orleans,64,n,True,True,2004 - New Orleans
+477,2004,Baltimore,https://web.archive.org/web/20060610031458/http://www.diglib.org/forums/fall2004/fallforum04short.htm,2004-10-25,2004-10-27,Baltimore,64,n,True,True,2004 - Baltimore
+478,2003,New York,https://web.archive.org/web/20060526151916/http://www.diglib.org/forums/spring2003/,2003-05-14,2003-05-16,New York,64,n,True,True,2003 - New York
+479,2003,Albuquerque,https://web.archive.org/web/20060603065943/http://www.diglib.org/forums/fall2003/fallforum03-short.htm,2003-11-17,2003-11-19,Albuquerque,64,n,True,True,2003 - Albuquerque
+480,2002,Chicago,https://web.archive.org/web/20061004015923/http://www.diglib.org/forums/spring2002/spr02brief.htm,2002-05-10,2002-05-12,Chicago,64,n,True,True,2002 - Chicago
+481,2002,Seattle,https://web.archive.org/web/20061004014617/http://www.diglib.org/forums/fall2002/DLFFallForum2002.htm,2002-11-04,2002-11-05,Seattle,64,n,True,True,2002 - Seattle
+482,2001,San Francisco,https://web.archive.org/web/20061004012227/http://www.diglib.org/forums/spring2001/sp01longpv.htm,2001-05-04,2001-05-06,San Francisco,64,n,True,True,2001 - San Francisco
+483,2001,Pittsburgh,https://web.archive.org/web/20060603072130/http://www.diglib.org/forums/fall2001/fa01brief.htm,2001-11-16,2001-11-18,Pittsburgh,64,n,True,True,2001 - Pittsburgh
+484,2000,Atlanta,https://web.archive.org/web/20060526152113/http://www.diglib.org/forums/spring2000/spring2000results.htm,2000-03-31,2000-04-02,Atlanta,64,n,True,True,2000 - Atlanta
+485,2000,Chicago,https://web.archive.org/web/20060901104251/http://www.diglib.org/forums/fall2000/forum2000resultspv.htm,2000-11-18,2000-11-20,Chicago,64,n,True,True,2000 - Chicago
+486,1999,"Washington, D.C.",https://web.archive.org/web/20061004013502/http://www.diglib.org/forums/summer1999/fs99agenda.htm,1999-07-17,1999-07-18,Washington,64,n,True,False,"1999 - Washington, D.C."
+487,2018,Rio de Janeiro,https://eventos.fgv.br/en/hdrio2018-ingles/,2018-04-09,2018-04-13,Rio de Janeiro,33,n,True,False,2018 - Rio de Janeiro
+488,2021,Rio de Janeiro,https://www.even3.com.br/hdrio2020/,2021-04-12,2021-04-16,Rio de Janeiro,33,n,False,False,2021 - Rio de Janeiro
+490,1970,RWTH Aachen,,1970-06-15,1970-06-17,Aachen,4,n,True,False,1970 - RWTH Aachen
+492,1966,Texas A&M University,,1966-11-17,1966-11-18,College Station,64,n,False,False,1966 - Texas A&M University
+493,1966,New York,,1966-12-29,1966-12-29,New York,64,n,False,False,1966 - New York
+495,2020,Ottawa,https://dh2020.adho.org/,2020-07-20,2020-07-25,Ottawa,13,r,True,False,2020 - Ottawa
+497,2017,Utrecht University,https://dhbenelux2017.eu/,2017-07-03,2017-07-05,Utrecht,1,n,True,True,2017 - Utrecht University
+498,2020,Online,https://www.computational-humanities-research.org/cfp/,2020-11-18,2020-11-20,,,i,True,False,2020 - Online
+499,2018,Rosario,https://www.aacademica.org/congreso.aahd2018,2018-11-07,2018-11-09,Rosario,50,n,True,False,2018 - Rosario
+500,2016,Buenos Aires,https://www.aacademica.org/aahd.congreso,2016-11-07,2016-11-09,Buenos Aires,50,n,True,False,2016 - Buenos Aires
+501,2014,Buenos Aires,https://www.aacademica.org/jornadasaahd,2014-11-17,2014-11-19,Buenos Aires,50,n,True,False,2014 - Buenos Aires
+503,2021,Freiburg,http://www.elmanuscript2020.uni-freiburg.de/wordpress/,2021-04-12,2021-04-15,Freiburg,4,i,True,True,2021 - Freiburg
+504,2008,"University of Maryland, College Park",https://archive.mith.umd.edu/diaspora2008/about.php.html,2008-04-30,2008-05-03,College Park,64,i,True,False,"2008 - University of Maryland, College Park"
+505,2021,Michigan State University,https://web.archive.org/web/20210413180926/http://msuglobaldh.org/abstracts/,2021-04-12,2021-04-15,East Lansing,64,n,True,True,2021 - Michigan State University
+506,2021,Leiden 2021,https://2021.dhbenelux.org/schedule/,2021-06-02,2021-06-04,Leiden,1,c,False,True,2021 - Leiden 2021
+507,2021,Alberta 2021,https://docs.google.com/spreadsheets/d/110_WppEAjN-6R4FaLEnsCcGhkuwHKxvXBAKCfrfmn1w/edit#gid=0,2021-05-30,2021-06-02,Alberta,13,i,True,True,2021 - Alberta 2021
+508,2020,London 2020,https://docs.google.com/spreadsheets/d/1x23oGQgtcQgzMlKADj9iBwhHv_vgxBwO66y4B9-3a8E/edit#gid=865048820,2020-05-31,2020-06-03,London,13,i,True,True,2020 - London 2020
