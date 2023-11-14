@@ -1,0 +1,101 @@
+xmlid	author-birth	author-death	author-gender	reference-year	provenance	numwords	narrative-perspective	size-category	reprint-count	time-slot
+FRA04301	1814	1875	M	1847	Bibebook	179332	heterodiegetic	long	high	T1
+FRA00101	1836	1936	F	1860	Wikisource	21636	homodiegetic	short	low	T2
+FRA00102	1836	1936	F	1883	Wikisource	29593	epistolary	short	low	T3
+FRA00301	1818	1883	M	1858	Bibliothèque électronique du Québec (BEQ)	90276	heterodiegetic	medium	low	T1
+FRA00302	1818	1883	M	1894	Bibliothèque électronique du Québec (BEQ)	139314	heterodiegetic	long	low	T2
+FRA00401	1829	1871	M	1902	BnF	41424	homodiegetic	short	high	T4
+FRA00201	1863	1937	F	1910	Bibliothèque électronique du Québec (BEQ)	37171	autodiegetic	short	high	T4
+FRA00501	1799	1850	M	1853	Éfélé	42274	heterodiegetic	short	high	T1
+FRA00502	1799	1850	M	1853	Éfélé	111052	heterodiegetic	long	high	T1
+FRA00503	1799	1850	M	1854	Éfélé	93205	heterodiegetic	medium	high	T1
+FRA04401	1873	1935	M	1916	Belenus	119403	heterodiegetic	long	high	T4
+FRA04501	1862	1923	M	1908	Ebooks gratuits (Yahoo Group)	31172	homodiegetic	short	high	T4
+FRA04601	1853	1932	M	1907	Bibebook	88367	heterodiegetic	medium	low	T4
+FRA03201	1836	1925	F	1887	Gallica (BnF)	84121	heterodiegetic	medium	low	T3
+FRA07101	1841	1909	F	1856	BnF	42483	heterodiegetic	short	low	T1
+FRA00601	1821	1891	M	1881	Ebooks libres et gratuits	93658	heterodiegetic	medium	low	T3
+FRA00602	1821	1891	M	1886	(unspecified)	104131	heterodiegetic	long	low	T3
+FRA04701	1852	1935	M	1919	Ebooks libres et gratuits	47202	heterodiegetic	short	low	T4
+FRA00701	1796	1889	F	1852	Project Gutenberg	53860	heterodiegetic	medium	high	T1
+FRA06401	1836	1881	F	1876	Gallica (BnF)	157157	heterodiegetic	long	low	T2
+FRA04801	1869	1937	M	1909	Project Gutenberg	35151	heterodiegetic	short	low	T4
+FRA07501	1862	1921	M	1897	CLiGS	145111	homodiegetic	long	high	T3
+FRA00801	1804	1872	F	1843	Gallica (BnF)	45263	heterodiegetic	short	low	T1
+FRA00901	1840	1897	M	1868	Ebooks libres et gratuits	87744	autodiegetic	medium	high	T2
+FRA06301	1839	1915	M	1884	Ebooks libres et gratuits	145892	heterodiegetic	long	high	T3
+FRA01002	1874	1945	F	1919	Wikisource	35097	heterodiegetic	short	low	T4
+FRA01102	1859	1914	F	1889	Bibliothèque électronique du Québec (BEQ)	24998	heterodiegetic	short	low	T3
+FRA01101	1859	1914	F	1890	Bibliothèque électronique du Québec (BEQ)	50336	heterodiegetic	medium	low	T3
+FRA04901	1802	1870	M	1845	Atramenta	217375	heterodiegetic	long	high	T1
+FRA05101	1854	1927	M	1904	Bibebook	48550	homodiegetic	short	low	T4
+FRA04102	1822	1899	M	1863	Bibliothèque électronique du Québec (BEQ)	61525	autodiegetic	medium	high	T2
+FRA05201	1821	1890	M	1856	Bibebook	31143	autodiegetic	short	low	T1
+FRA01203	1816	1887	M	1845	Ebooks libres et gratuits	80201	heterodiegetic	medium	high	T1
+FRA01202	1816	1887	M	1857	Ebooks libres et gratuits	103086	heterodiegetic	long	low	T1
+FRA01201	1816	1887	M	1868	Ebooks libres et gratuits	136999	heterodiegetic	long	low	T2
+FRA01302	1821	1880	M	1857	Ebooks libres et gratuits	120122	heterodiegetic	long	high	T1
+FRA01303	1821	1880	M	1862	Wikisource	105395	heterodiegetic	long	high	T2
+FRA01301	1821	1880	M	1870	(unspecified)	149810	heterodiegetic	long	high	T2
+FRA01402	1829	1890	F	1874	Bibliothèque électronique du Québec (BEQ)	38021	autodiegetic	short	low	T2
+FRA01401	1829	1890	F	1877	Bibliothèque électronique du Québec (BEQ)	35076	heterodiegetic	short	low	T2
+FRA01403	1829	1890	F	1881	Bibliothèque électronique du Québec (BEQ)	64213	heterodiegetic	medium	low	T3
+FRA01501	1844	1924	M	1912	Fadedpage	71994	heterodiegetic	medium	high	T4
+FRA01902	1832	1873	M	1869	Ebooks libres et gratuits	269763	heterodiegetic	long	high	T2
+FRA05301	1865	1934	M	1906	Bibebook	50310	homodiegetic	short	low	T4
+FRA01601	1845	1917	F	1875	Wikisource	107267	heterodiegetic	long	high	T2
+FRA01602	1845	1917	F	1893	Wikisource	51537	heterodiegetic	medium	low	T3
+FRA01603	1845	1917	F	1900	Wikisource	29460	heterodiegetic	short	high	T4
+FRA01701	1800	1872	M	1847	Wikisource	40222	heterodiegetic	short	high	T1
+FRA01801	1776	1852	F	1844	Project Gutenberg	188983	homodiegetic	long	low	T1
+FRA02001	1880	1940	M	1912	Gallica (BnF)	21626	heterodiegetic	short	low	T4
+FRA02101	1804	1855	F	1854	Bibliothèque numérique romande (BNR)	69231	heterodiegetic	medium	high	T1
+FRA02202	1810	1891	M	1867	Bibliothèque électronique du Québec (BEQ)	43357	heterodiegetic	short	low	T2
+FRA02203	1810	1891	M	1876	Bibliothèque électronique du Québec (BEQ)	45477	heterodiegetic	short	low	T2
+FRA02201	1810	1891	M	1888	Bibliothèque électronique du Québec (BEQ)	45701	heterodiegetic	short	low	T3
+FRA02303	1842	1902	F	1878	Bibliothèque électronique du Québec (BEQ)	52698	heterodiegetic	short	low	T2
+FRA02302	1842	1902	F	1878	Bibliothèque électronique du Québec (BEQ)	56987	heterodiegetic	medium	low	T2
+FRA02301	1842	1902	F	1888	Bibliothèque électronique du Québec (BEQ)	60048	heterodiegetic	medium	low	T3
+FRA06501	1849	1932	F	1897	Gallica (BnF)	44196	heterodiegetic	short	low	T3
+FRA05401	1793	1871	M	1849	Project Gutenberg	99323	homodiegetic	medium	high	T1
+FRA02401	1867	1938	M	1904	Bibliothèque électronique du Québec (BEQ)	25038	heterodiegetic	short	low	T4
+FRA07401	1864	1941	M	1910	CLiGS	112340	heterodiegetic	long	high	T4
+FRA05501	1839	1915	M	1910	Bibebook	47052	heterodiegetic	short	low	T4
+FRA07601	1868	1927	M	1913	Ebooks libres et gratuits	217799	heterodiegetic	long	high	T4
+FRA05602	1854	1921	F	1904	Project Gutenberg	206089	heterodiegetic	long	low	T4
+FRA02501	1850	1923	M	1883	Bibliothèque électronique du Québec (BEQ)	73698	homodiegetic	medium	high	T3
+FRA02601	1830	1907	M	1869	Bibliothèque électronique du Québec (BEQ)	70236	autodiegetic	medium	high	T2
+FRA02602	1830	1907	M	1878	Bibliothèque électronique du Québec (BEQ)	123735	autodiegetic	long	high	T2
+FRA02603	1830	1907	M	1888	Bibliothèque électronique du Québec (BEQ)	105754	heterodiegetic	long	low	T3
+FRA05702	1812	1888	M	1857	Gallica (BnF)	177144	heterodiegetic	long	low	T1
+FRA02702	1850	1893	M	1883	Ebooks libres et gratuits	77338	heterodiegetic	medium	high	T3
+FRA02701	1850	1893	M	1885	Ebooks libres et gratuits	111187	heterodiegetic	long	high	T3
+FRA07001	1841	1909	M	1892	BnF	29772	heterodiegetic	short	low	T3
+FRA05801	1864	1941	M	1912	Gallica (BnF)	49700	heterodiegetic	short	low	T4
+FRA02802	1848	1917	M	1883	Bibliothèque électronique du Québec (BEQ)	60951	heterodiegetic	medium	high	T3
+FRA07201	1830	1899	M	1886	BnF	84303	heterodiegetic	medium	low	T2
+FRA05901	1870	1918	M	1907	Bibebook	78099	heterodiegetic	medium	low	T4
+FRA02901	1876	1933	F	1903	Wikisource	56757	heterodiegetic	medium	low	T4
+FRA03001	1848	1918	M	1885	Project Gutenberg	115270	heterodiegetic	long	low	T3
+FRA03002	1848	1918	M	1890	Project Gutenberg	53382	heterodiegetic	medium	low	T3
+FRA03003	1848	1918	M	1894	Project Gutenberg	50561	heterodiegetic	medium	low	T3
+FRA06601	1858	1918	M	1902	Gallica (BnF)	72697	heterodiegetic	medium	low	T4
+FRA03101	1829	1871	M	1852	Computational Literary Genre Stylistics (CLiGS)	68667	heterodiegetic	medium	high	T1
+FRA03601	1871	1922	M	1913	Bibliothèque électronique du Québec (BEQ)	181469	autodiegetic	long	high	T4
+FRA03302	1831	1902	F	1865	Bibliothèque numérique romande	53880	heterodiegetic	medium	low	T2
+FRA06001	1867	1905	M	1902	Bibebook	53060	heterodiegetic	medium	high	T4
+FRA03401	1802	1871	F	1855	Bibliothèque numérique romande (BNR)	38804	homodiegetic	short	high	T1
+FRA04202	1866	1944	M	1912	CLiGS	587440	heterodiegetic	long	high	T4
+FRA03704	1804	1876	F	1840	Computational Literary Genre Stylistics (CLiGS)	133214	homodiegetic	long	high	T1
+FRA03702	1804	1876	F	1867	Bibliothèque électronique du Québec (BEQ)	88169	autodiegetic	medium	high	T2
+FRA03701	1804	1876	F	1872	Bibliothèque électronique du Québec (BEQ)	101919	autodiegetic	long	high	T2
+FRA06101	1811	1883	M	1848	Project Gutenberg	62501	heterodiegetic	medium	high	T1
+FRA03802	1805	1876	F	1846	Project Gutenberg	70592	heterodiegetic	medium	low	T1
+FRA03903	1820	1898	F	1878	Bibliothèque électronique du Québec (BEQ)	49150	heterodiegetic	short	low	T2
+FRA06701	1824	1893	M	1882	Gallica (BnF)	60908	heterodiegetic	medium	low	T3
+FRA06801	1815	1885	M	1861	Gallica (BnF)	73552	heterodiegetic	medium	low	T2
+FRA07301	NA	NA	F	1853	Gallica (BnF)	49025	heterodiegetic	short	low	T1
+FRA04001	1828	1905	M	1878	Bibliothèque électronique du Québec (BEQ)	125179	heterodiegetic	long	high	T2
+FRA04002	1828	1905	M	1898	Bibliothèque électronique du Québec (BEQ)	55614	autodiegetic	medium	high	T3
+FRA06201	1802	1864	M	1845	Gallica (BnF)	50642	mixed	medium	low	T1
+FRA06901	1828	1888	F	1879	BnF	93413	heterodiegetic	medium	low	T2
